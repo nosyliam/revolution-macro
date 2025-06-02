@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Revolution Macro Updates</title>
+    <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
+    <description>AppCast for Revolution Macro (Windows)</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.4a-hotfix2</title>
+      <sparkle:version>0.4a-hotfix2</sparkle:version>
+      <pubDate>Mon, 02 Jun 2025 05:28:14 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.4a-hotfix2/Revolution%20Macro-0.4a-hotfix2.zip" length="15450205" type="application/octet-stream" sparkle:edSignature="PAxzZ/H8n9vmhbR7DN7UgyMKi5/sIyw7rkf67GTDnkAXbrHs//QEzyC02N0r1QcEWb4XCIIhfDeZyRKsmCE5Dw==" />
+      <description><![CDATA[<ul> <li>Added auto-update to the macro</li> <li>Fixed several bugs that will make your macro experience even better!</li> </ul>]]></description>
+    </item>
+  </channel>
+</rss>
