@@ -1,6 +1,6 @@
 ## Revolution Macro
 
-Revolution Macro is a new Bee Swarm Simulator macro for **Windows** and **MacOS** that has been designed from the ground-up to offer an innovative and modern macro experience.
+Revolution Macro is a new Bee Swarm Simulator macro for **Windows** and **MacOS** that has been designed from the ground-up to offer an innovative macro experience.
 Sporting a modern interface and advanced features that integrate AI, Revolution will be the last macro that you'll ever use. Some of the features included right now are:
 
 * **AI Stinger Hop**: Public server hop with advanced AI detection and searcher support.
