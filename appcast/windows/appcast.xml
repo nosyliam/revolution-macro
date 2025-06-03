@@ -8,8 +8,8 @@
     <item>
       <title>Version 0.4a-hotfix2</title>
       <sparkle:version>0.4a-hotfix2</sparkle:version>
-      <pubDate>Mon, 02 Jun 2025 22:07:53 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix2/RevolutionUpdater-0.4a-hotfix2.exe" length="19049984" type="application/octet-stream" sparkle:edSignature="suU/PuuGn3CIdLFd6ECmoRvFDFn/Txl7IY/zkpyk+SKSk2h8aUmg/5EtIJlGu77tfo0D71Y7ee+Pyqq2/apUDA==" />
+      <pubDate>Tue, 03 Jun 2025 00:05:06 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix2/RevolutionUpdater-0.4a-hotfix2.exe" length="19050496" type="application/octet-stream" sparkle:edSignature="r7LrwrsEp4Ta7HFFMf/Rj2VTQtQGikGH8davsTOEbOq/3z3kHY8TGiT3wwzTPP+TFwh8cMH43a/AdkgigtMYBQ==" />
       <description><![CDATA[<ul> <li>Added auto-update to the macro</li> <li>Fixed several bugs that will make your experience even better!</li> </ul>]]></description>
     </item>
   </channel>
