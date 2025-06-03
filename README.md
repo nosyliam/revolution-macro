@@ -14,7 +14,7 @@ Sporting a modern interface and advanced features that integrate AI, Revolution 
 </p>
 
 
-# Creator
+## Creator
 
 Revolution Macro is a solo project created by Liam. Your support is what drives me to fulfill the vision for Revolution every single day! Have a question? Feel free to contact me on Discord, my tag is `liammuwu`
 
