@@ -8,10 +8,10 @@ Sporting a modern interface and advanced features that integrate AI, Revolution 
 * **Gathering**: Choose any amount of fields to gather in of your choosing with a modern and intuitive interface
 * **Dispensers**: Collect loot from every dispenser in the game, without needing to
 
-<div style="text-align:center">
-  <img src="images/demo_1.png" width="600"/>
-  <img src="images/demo_2.png" width="600"/>
-</div>
+<p align="center">
+  <img src="images/demo_1.png" width="600" />
+  <img src="images/demo_2.png" width="600" />
+</p>
 
 
 # Creator
