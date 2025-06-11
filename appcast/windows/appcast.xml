@@ -19,5 +19,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix3/RevolutionUpdater-0.4a-hotfix3.exe" length="19061248" type="application/octet-stream" sparkle:edSignature="uFbkOi7kPdvv+lwZqIYrXmLaHUejcGdzGkXlimrw55Y6YInvBWekuT0Wd7ZiNp+JXxcySlYBXR8rmF7bqEmMDw==" />
       <description><![CDATA[<ul> <li>Fixed a bug that caused AI models to not be downloaded properly</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.4a-hotfix4</title>
+      <sparkle:version>0.4a-hotfix4</sparkle:version>
+      <pubDate>Wed, 11 Jun 2025 19:31:55 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix4/RevolutionUpdater-0.4a-hotfix4.exe" length="19075584" type="application/octet-stream" sparkle:edSignature="TiigeAtPb2SogcR8pgT7YjR6tYWIPcv/VISuS3xfYwBdiEzMszC8aw1esljQY+q+ya+v+gGWSv+8BUv3qaPxBg==" />
+      <description><![CDATA[<ul> <li>Added a new AI detection model</li> <li>Improved the Legacy screen capture mode</li> <li>Improved pathing from the hives to the cannon</li> <li>Improved the Pepper search path</li> <li>Fixed several bugs</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
