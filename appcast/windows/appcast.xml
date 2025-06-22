@@ -22,9 +22,16 @@
     <item>
       <title>Version 0.4a-hotfix4</title>
       <sparkle:version>0.4a-hotfix4</sparkle:version>
-      <pubDate>Wed, 11 Jun 2025 19:31:55 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix4/RevolutionUpdater-0.4a-hotfix4.exe" length="19075584" type="application/octet-stream" sparkle:edSignature="TiigeAtPb2SogcR8pgT7YjR6tYWIPcv/VISuS3xfYwBdiEzMszC8aw1esljQY+q+ya+v+gGWSv+8BUv3qaPxBg==" />
+      <pubDate>Wed, 11 Jun 2025 19:33:05 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix4/RevolutionUpdater-0.4a-hotfix4.exe" length="19075584" type="application/octet-stream" sparkle:edSignature="YgljUbi4RC9fWFjjtJohHpAU62PBs35pnwScbu8pU/48+4w4bm//D1ngi1Rhkrck9/mQeL4KW/b9R7S7TmyTBg==" />
       <description><![CDATA[<ul> <li>Added a new AI detection model</li> <li>Improved the Legacy screen capture mode</li> <li>Improved pathing from the hives to the cannon</li> <li>Improved the Pepper search path</li> <li>Fixed several bugs</li> </ul>]]></description>
+    </item>
+    <item>
+      <title>Version 0.4b</title>
+      <sparkle:version>0.4b</sparkle:version>
+      <pubDate>Sun, 22 Jun 2025 03:18:21 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4b/RevolutionUpdater-0.4b.exe" length="19152896" type="application/octet-stream" sparkle:edSignature="pNFzSnfly2C71aNUz+Tgy4LgCJMvfMfe1QsrkAsztsgxJHroUepvPD3INAQXFzHzyhfSaFdr4y5+tcaYx+rwBA==" />
+      <description><![CDATA[<ul> <li>Added a new RBC gathering macro</li> <li>Added a Vic Hop rejoin timer</li> <li>Improved various paths</li> <li>Fixed numerous bugs</li> </ul>]]></description>
     </item>
   </channel>
 </rss>
