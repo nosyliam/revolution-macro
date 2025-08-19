@@ -36,8 +36,8 @@
     <item>
       <title>Version 0.5a</title>
       <sparkle:version>0.5a</sparkle:version>
-      <pubDate>Tue, 19 Aug 2025 20:39:19 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uEUzWG17+rmmgZ60/RRuLaDwzbk+uDOq+4j7PfLzOfZ6Ig+WqFYMzJY53NlfWi6nfaL9JQSkx5JIHXfP4WpvCw==" />
+      <pubDate>Tue, 19 Aug 2025 20:42:02 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uFoRmYIlMQmERyWbOwnk6eXNNmhXzUEpbsEx+KTw7UKZzVF1AVwicj8d/17lzsiTmxocOUZd41QX0H3xLJipCg==" />
       <description><![CDATA[<ul> <li>Added Planter Studio, an interactive planter scheduling system</li> <li>Added AI Gathering</li> <li>Added Bug Run</li> <li>Added collection for all dispensers</li> </ul>]]></description>
     </item>
   </channel>
