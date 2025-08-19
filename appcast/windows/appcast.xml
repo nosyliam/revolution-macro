@@ -33,5 +33,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4b/RevolutionUpdater-0.4b.exe" length="19152896" type="application/octet-stream" sparkle:edSignature="pNFzSnfly2C71aNUz+Tgy4LgCJMvfMfe1QsrkAsztsgxJHroUepvPD3INAQXFzHzyhfSaFdr4y5+tcaYx+rwBA==" />
       <description><![CDATA[<ul> <li>Added a new RBC gathering macro</li> <li>Added a Vic Hop rejoin timer</li> <li>Improved various paths</li> <li>Fixed numerous bugs</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5a</title>
+      <sparkle:version>0.5a</sparkle:version>
+      <pubDate>Tue, 19 Aug 2025 20:39:19 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uEUzWG17+rmmgZ60/RRuLaDwzbk+uDOq+4j7PfLzOfZ6Ig+WqFYMzJY53NlfWi6nfaL9JQSkx5JIHXfP4WpvCw==" />
+      <description><![CDATA[<ul> <li>Added Planter Studio, an interactive planter scheduling system</li> <li>Added AI Gathering</li> <li>Added Bug Run</li> <li>Added collection for all dispensers</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
