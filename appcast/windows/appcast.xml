@@ -40,5 +40,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uFoRmYIlMQmERyWbOwnk6eXNNmhXzUEpbsEx+KTw7UKZzVF1AVwicj8d/17lzsiTmxocOUZd41QX0H3xLJipCg==" />
       <description><![CDATA[<ul> <li>Added Planter Studio, an interactive planter scheduling system</li> <li>Added AI Gathering</li> <li>Added Bug Run</li> <li>Added collection for all dispensers</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5a-hotfix1</title>
+      <sparkle:version>0.5a-hotfix1</sparkle:version>
+      <pubDate>Wed, 20 Aug 2025 04:14:41 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix1/RevolutionUpdater-0.5a-hotfix1.exe" length="20840960" type="application/octet-stream" sparkle:edSignature="mhA7RYX94sw5PMxIIKhJdeKrNGaxB/tzR/wdVwWMUHOuldm6021PCnahuCTQXlHhlKRpsL7a59G3HuFwTdPSAg==" />
+      <description><![CDATA[<ul> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
