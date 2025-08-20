@@ -50,8 +50,8 @@
     <item>
       <title>Version 0.5a-hotfix2</title>
       <sparkle:version>0.5a-hotfix2</sparkle:version>
-      <pubDate>Wed, 20 Aug 2025 06:29:23 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix2/RevolutionUpdater-0.5a-hotfix2.exe" length="20832768" type="application/octet-stream" sparkle:edSignature="F/KISLgInfbloLlcqJ//PHHXb1CAebPjXaz6mByRlkRTjeshVKNlkequ+UK9i+G22rEdeHO7Illtj+L6DX6OCQ==" />
+      <pubDate>Wed, 20 Aug 2025 06:46:10 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix2/RevolutionUpdater-0.5a-hotfix2.exe" length="20832768" type="application/octet-stream" sparkle:edSignature="vqcRw5EogCoKAXithNP8OEieYolp5qhWG5wUdA6VRvQRuk0M/Ymun7ogUQ0th5Pt3XGdXyea0ZizfDsdVT5wCA==" />
       <description><![CDATA[<ul> <li>Fix network relay</li> </ul>]]></description>
     </item>
   </channel>
