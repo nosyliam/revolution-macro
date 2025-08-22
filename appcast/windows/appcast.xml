@@ -54,5 +54,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix2/RevolutionUpdater-0.5a-hotfix2.exe" length="20832768" type="application/octet-stream" sparkle:edSignature="vqcRw5EogCoKAXithNP8OEieYolp5qhWG5wUdA6VRvQRuk0M/Ymun7ogUQ0th5Pt3XGdXyea0ZizfDsdVT5wCA==" />
       <description><![CDATA[<ul> <li>Fix network relay</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5a-hotfix3</title>
+      <sparkle:version>0.5a-hotfix3</sparkle:version>
+      <pubDate>Fri, 22 Aug 2025 18:33:57 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix3/RevolutionUpdater-0.5a-hotfix3.exe" length="20838400" type="application/octet-stream" sparkle:edSignature="PeLppGyUAp7ObwGviLi4PYiOGDHNkbKXmefK1g9Fq76P7TmU+RS0i8OIKFra2WizWDGlHL+jomEFqC7K5ThZBg==" />
+      <description><![CDATA[<ul> <li>Improved the success rate of server hopping</li> <li>Fixed a bug with hotkeys</li> <li>Fixed a bug with planters not being found in the inventory</li> <li>Automatically close Roblox error dialogs</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
