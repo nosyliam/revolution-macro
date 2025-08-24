@@ -75,5 +75,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix5/RevolutionUpdater-0.5a-hotfix5.exe" length="20860416" type="application/octet-stream" sparkle:edSignature="gevdnkrGc4WouqO5HHOHGSXcgCAQAXz87EXddW+I6tHQ6lc4TFXpheHQSW0pBCBKJ18Q2DcQqS6SB4Ujr8cwAA==" />
       <description><![CDATA[<ul> <li>Fixed hive claim bugs</li> <li>Fix planter soft-lock</li> <li>Fix dipper not being used</li> <li>Improved server hop accuracy</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5a-hotfix6</title>
+      <sparkle:version>0.5a-hotfix6</sparkle:version>
+      <pubDate>Sun, 24 Aug 2025 06:01:39 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix6/RevolutionUpdater-0.5a-hotfix6.exe" length="20860928" type="application/octet-stream" sparkle:edSignature="Ies2qFlkrXflgUWkM3ulTMXFDrXddEPX6SEMLm3SbGUxUfHRwKrg7SboED5mYFiFMHBQI6l+o3zlE46x/rM2Cw==" />
+      <description><![CDATA[<ul> <li>Fixed a soft-lock when server hopping</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
