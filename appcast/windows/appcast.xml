@@ -85,8 +85,8 @@
     <item>
       <title>Version 0.5a-hotfix7</title>
       <sparkle:version>0.5a-hotfix7</sparkle:version>
-      <pubDate>Tue, 26 Aug 2025 00:32:00 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="50191360" type="application/octet-stream" sparkle:edSignature="H+7KXiQlqWzgmACcBXjFy8QtSVKW8lKPxkabokXfnNLKU6+LkDTNxn7IkvgmRaxCw2RL6XlrOyDjrk4oirCeDw==" />
+      <pubDate>Tue, 26 Aug 2025 00:34:58 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="20861440" type="application/octet-stream" sparkle:edSignature="3tuQaVHjnMke0Gt2rBfEV4MeyH52XmhxZQ1JH5Y8m6oi5O9JQgYkuoO+gEnwmJG9pNBk9o1YYnNweeSLoCX2Dg==" />
       <description><![CDATA[<ul> <li>Fixed a crash related to buff detection</li> <li>Fixed a crash related to server hopping</li> <li>Fixed server hopping getting stuck</li> <li>Fixed some nectars not being detected</li> </ul>]]></description>
     </item>
   </channel>
