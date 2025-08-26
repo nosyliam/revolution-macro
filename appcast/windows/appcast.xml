@@ -82,5 +82,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix6/RevolutionUpdater-0.5a-hotfix6.exe" length="20860928" type="application/octet-stream" sparkle:edSignature="Ies2qFlkrXflgUWkM3ulTMXFDrXddEPX6SEMLm3SbGUxUfHRwKrg7SboED5mYFiFMHBQI6l+o3zlE46x/rM2Cw==" />
       <description><![CDATA[<ul> <li>Fixed a soft-lock when server hopping</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5a-hotfix7</title>
+      <sparkle:version>0.5a-hotfix7</sparkle:version>
+      <pubDate>Tue, 26 Aug 2025 00:32:00 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="50191360" type="application/octet-stream" sparkle:edSignature="H+7KXiQlqWzgmACcBXjFy8QtSVKW8lKPxkabokXfnNLKU6+LkDTNxn7IkvgmRaxCw2RL6XlrOyDjrk4oirCeDw==" />
+      <description><![CDATA[<ul> <li>Fixed a crash related to buff detection</li> <li>Fixed a crash related to server hopping</li> <li>Fixed server hopping getting stuck</li> <li>Fixed some nectars not being detected</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
