@@ -89,5 +89,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="20861440" type="application/octet-stream" sparkle:edSignature="3tuQaVHjnMke0Gt2rBfEV4MeyH52XmhxZQ1JH5Y8m6oi5O9JQgYkuoO+gEnwmJG9pNBk9o1YYnNweeSLoCX2Dg==" />
       <description><![CDATA[<ul> <li>Fixed a crash related to buff detection</li> <li>Fixed a crash related to server hopping</li> <li>Fixed server hopping getting stuck</li> <li>Fixed some nectars not being detected</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5b</title>
+      <sparkle:version>0.5b</sparkle:version>
+      <pubDate>Sun, 31 Aug 2025 22:42:08 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20899840" type="application/octet-stream" sparkle:edSignature="593xvQl9SMGYKm0D+JoyyyBHNiXuZXpcuIrZNk3cCd+wSxuUPVfj+LHf6LQWhlLYXk5M/tlRu4UurjXDGvEcCA==" />
+      <description><![CDATA[<ul> <li>Added Mondo Hop (with alt support)</li> <li>Added performance optimizations</li> <li>Fixed Vic Hop with planters</li> <li>Added AI support for Windows 10</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
