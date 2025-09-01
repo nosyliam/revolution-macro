@@ -92,8 +92,8 @@
     <item>
       <title>Version 0.5b</title>
       <sparkle:version>0.5b</sparkle:version>
-      <pubDate>Sun, 31 Aug 2025 22:42:08 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20899840" type="application/octet-stream" sparkle:edSignature="593xvQl9SMGYKm0D+JoyyyBHNiXuZXpcuIrZNk3cCd+wSxuUPVfj+LHf6LQWhlLYXk5M/tlRu4UurjXDGvEcCA==" />
+      <pubDate>Mon, 01 Sep 2025 00:12:39 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="jLcX0ngzX2sycpmGgF9ujekqD3TsnbO4DzhXUixTGRDhlxZq8tRotawecN8oYeysW/5OEMGN8IPwkchtJLyWDg==" />
       <description><![CDATA[<ul> <li>Added Mondo Hop (with alt support)</li> <li>Added performance optimizations</li> <li>Fixed Vic Hop with planters</li> <li>Added AI support for Windows 10</li> </ul>]]></description>
     </item>
   </channel>
