@@ -99,8 +99,8 @@
     <item>
       <title>Version 0.5b-hotfix1</title>
       <sparkle:version>0.5b-hotfix1</sparkle:version>
-      <pubDate>Fri, 05 Sep 2025 05:07:09 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="X23yCKzYI0RnO53aKP/L+ZSSrTJcfjM+DsFqJDlwuRwNN5bCxpnZCx+YZujLxMqlpCBhAp/BlPc8DJON1Aj6Dg==" />
+      <pubDate>Fri, 05 Sep 2025 05:08:59 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="aK/gsLyikryHvR9S4VeWRQ4xK2wqrv6Vg6Ds2/u/hpiPB6iRNleed9gnE85OoT6K285vTC5tRu7luVMjxVr9Dg==" />
       <description><![CDATA[<ul> <li>Improved pine return path</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
   </channel>
