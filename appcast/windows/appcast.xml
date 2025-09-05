@@ -96,5 +96,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="1FA+accG9LiQ8R9R2bOOynXZhyiSoAByNTsE2uOmDI2KaY9P2YtMkWnf6+eEEkRD0aYvZ3tY2LMTXhkQw/zqBw==" />
       <description><![CDATA[<ul> <li>Added Mondo Hop (with alt support)</li> <li>Added performance optimizations</li> <li>Fixed Vic Hop with planters</li> <li>Added AI support for Windows 10</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5b-hotfix1</title>
+      <sparkle:version>0.5b-hotfix1</sparkle:version>
+      <pubDate>Fri, 05 Sep 2025 05:07:09 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="X23yCKzYI0RnO53aKP/L+ZSSrTJcfjM+DsFqJDlwuRwNN5bCxpnZCx+YZujLxMqlpCBhAp/BlPc8DJON1Aj6Dg==" />
+      <description><![CDATA[<ul> <li>Improved pine return path</li> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
