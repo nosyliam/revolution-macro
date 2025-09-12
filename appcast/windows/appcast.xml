@@ -110,5 +110,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="JaaI0dwq3xEOnXaysZo3PVYGUps7NlQp+DMk2/E6oRfExVQMY42u4bD+er7a/Uizpz3o1ybPBaCqvFWgHn6zCw==" />
       <description><![CDATA[<ul> <li>Improved the auto-planter algorithm</li> <li>Added field degradation calculations</li> <li>Added additional fail-safes for planters</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5c-hotfix1</title>
+      <sparkle:version>0.5c-hotfix1</sparkle:version>
+      <pubDate>Fri, 12 Sep 2025 16:08:29 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c-hotfix1/RevolutionUpdater-0.5c-hotfix1.exe" length="20972032" type="application/octet-stream" sparkle:edSignature="VYfLZhp7mVoYcUPobdUZ2aR8IEIXVelhHSTMNK101cY7qCOGHK0wwfQnANwIX9XFKdsOOsWqFF4j8LaFVxSODA==" />
+      <description><![CDATA[<ul> <li>Fixed a hive conversion soft-lock</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
