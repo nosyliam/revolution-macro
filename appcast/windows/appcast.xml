@@ -106,8 +106,8 @@
     <item>
       <title>Version 0.5c</title>
       <sparkle:version>0.5c</sparkle:version>
-      <pubDate>Fri, 12 Sep 2025 05:35:48 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="xvCx3ZY2ifU93wIjRQX9TW5qgvsigEh9vJ4UJTrSD1Cx7AZoXaJeb4+oN3Hopvolo9OE5IaHqB03oNBwweKzAg==" />
+      <pubDate>Fri, 12 Sep 2025 05:57:48 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="JaaI0dwq3xEOnXaysZo3PVYGUps7NlQp+DMk2/E6oRfExVQMY42u4bD+er7a/Uizpz3o1ybPBaCqvFWgHn6zCw==" />
       <description><![CDATA[<ul> <li>Improved the auto-planter algorithm</li> <li>Added field degradation calculations</li> <li>Added additional fail-safes for planters</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
   </channel>
