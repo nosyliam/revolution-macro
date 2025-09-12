@@ -103,5 +103,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900864" type="application/octet-stream" sparkle:edSignature="Gt5wYr6kkFYt/+PcMXnYaQ2J27+zyRSHBqEB1FP+LWDiYXDm+1xHsTNY/ym4UdyLGe3lT7dtUgD5Sgaz2A6UDg==" />
       <description><![CDATA[<ul> <li>Improved pine return path</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.5c</title>
+      <sparkle:version>0.5c</sparkle:version>
+      <pubDate>Fri, 12 Sep 2025 05:35:48 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="xvCx3ZY2ifU93wIjRQX9TW5qgvsigEh9vJ4UJTrSD1Cx7AZoXaJeb4+oN3Hopvolo9OE5IaHqB03oNBwweKzAg==" />
+      <description><![CDATA[<ul> <li>Improved the auto-planter algorithm</li> <li>Added field degradation calculations</li> <li>Added additional fail-safes for planters</li> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
