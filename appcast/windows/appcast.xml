@@ -117,5 +117,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c-hotfix1/RevolutionUpdater-0.5c-hotfix1.exe" length="20972032" type="application/octet-stream" sparkle:edSignature="VYfLZhp7mVoYcUPobdUZ2aR8IEIXVelhHSTMNK101cY7qCOGHK0wwfQnANwIX9XFKdsOOsWqFF4j8LaFVxSODA==" />
       <description><![CDATA[<ul> <li>Fixed a hive conversion soft-lock</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.6a</title>
+      <sparkle:version>0.6a</sparkle:version>
+      <pubDate>Sat, 20 Sep 2025 15:47:39 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a/RevolutionUpdater-0.6a.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="aaM22+pakCppNiGmQbY8rP0ICQGT0DAkPGcY1GOw8r9fFFG3muP2XxR6EwP7iTcWTSubZgjSUENcERl07zbfDg==" />
+      <description><![CDATA[<ul> <li>Added Polar Bear quests</li> <li>Optimized AI gathering</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
