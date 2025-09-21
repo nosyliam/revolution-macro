@@ -124,5 +124,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a/RevolutionUpdater-0.6a.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="aaM22+pakCppNiGmQbY8rP0ICQGT0DAkPGcY1GOw8r9fFFG3muP2XxR6EwP7iTcWTSubZgjSUENcERl07zbfDg==" />
       <description><![CDATA[<ul> <li>Added Polar Bear quests</li> <li>Optimized AI gathering</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.6a-hotfix1</title>
+      <sparkle:version>0.6a-hotfix1</sparkle:version>
+      <pubDate>Sun, 21 Sep 2025 21:34:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix1/RevolutionUpdater-0.6a-hotfix1.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="a70izeuecDkZ2Bazid/G0bxMJAy6jVaMxT0N1ztgKpgwc3aG5Dd16NLxoc2q+IymuzakwhL3afV+xrbN06M0CQ==" />
+      <description><![CDATA[<ul> <li>Fixed a soft-lock related to Supreme Saturator detection</li> <li>Fixed an issue that caused AI models not to load</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
