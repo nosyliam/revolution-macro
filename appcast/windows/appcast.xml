@@ -131,5 +131,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix1/RevolutionUpdater-0.6a-hotfix1.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="a70izeuecDkZ2Bazid/G0bxMJAy6jVaMxT0N1ztgKpgwc3aG5Dd16NLxoc2q+IymuzakwhL3afV+xrbN06M0CQ==" />
       <description><![CDATA[<ul> <li>Fixed a soft-lock related to Supreme Saturator detection</li> <li>Fixed an issue that caused AI models not to load</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.6a-hotfix2</title>
+      <sparkle:version>0.6a-hotfix2</sparkle:version>
+      <pubDate>Tue, 23 Sep 2025 21:17:23 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix2/RevolutionUpdater-0.6a-hotfix2.exe" length="21066752" type="application/octet-stream" sparkle:edSignature="9xuXFB3K0tnpt0ad1kvHk7BwrKWRGtxZPU2N8b3EwKMYVywbFnKQFPmFY5VKsiFbkxJjw/V50SzEJQzop9szDA==" />
+      <description><![CDATA[<ul> <li>Added an improved pine return path</li> <li>Improved the networking system</li> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
