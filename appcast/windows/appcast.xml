@@ -138,5 +138,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix2/RevolutionUpdater-0.6a-hotfix2.exe" length="21066752" type="application/octet-stream" sparkle:edSignature="9xuXFB3K0tnpt0ad1kvHk7BwrKWRGtxZPU2N8b3EwKMYVywbFnKQFPmFY5VKsiFbkxJjw/V50SzEJQzop9szDA==" />
       <description><![CDATA[<ul> <li>Added an improved pine return path</li> <li>Improved the networking system</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.6a-hotfix3</title>
+      <sparkle:version>0.6a-hotfix3</sparkle:version>
+      <pubDate>Thu, 25 Sep 2025 23:30:18 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix3/RevolutionUpdater-0.6a-hotfix3.exe" length="21320704" type="application/octet-stream" sparkle:edSignature="dbqAjld++V0s945otLBkRoumYIEM9rdhcZMmQOJoLjogtIX7zhOiIfLQtp3xtrOsKJHh8lB77czMVUGUOE+iAw==" />
+      <description><![CDATA[<ul> <li>Added partner servers to the credits</li> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
