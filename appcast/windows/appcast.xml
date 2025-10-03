@@ -145,5 +145,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix3/RevolutionUpdater-0.6a-hotfix3.exe" length="21320704" type="application/octet-stream" sparkle:edSignature="dbqAjld++V0s945otLBkRoumYIEM9rdhcZMmQOJoLjogtIX7zhOiIfLQtp3xtrOsKJHh8lB77czMVUGUOE+iAw==" />
       <description><![CDATA[<ul> <li>Added partner servers to the credits</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.7a</title>
+      <sparkle:version>0.7a</sparkle:version>
+      <pubDate>Fri, 03 Oct 2025 19:22:25 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7a/RevolutionUpdater-0.7a.exe" length="21731328" type="application/octet-stream" sparkle:edSignature="g/m901UXgYiWjYgLQ9uyGAvrbW9e8tbIWLGs/G3GhYqGOF6JQtHWOk0eK4NzHb0hgrovIclN9+RNpt5AlU9FDA==" />
+      <description><![CDATA[<ul> <li>Added Buff Usage</li> <li>Added Sticker Stack</li> <li>Added Mondo Buff</li> <li>Added HQ Boosters</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
