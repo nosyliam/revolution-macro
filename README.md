@@ -9,8 +9,8 @@ Sporting a modern interface and advanced features that integrate AI, Revolution 
 * **Dispensers**: Collect loot from every dispenser in the game without needing to reset after.
 
 <p align="center">
-  <img src="images/demo_1.png" width="600" style="border-radius: 12px;" />
-  <img src="images/demo_2.png" width="600" style="border-radius: 12px;" />
+  <img src="images/demo_1.png" width="600" style="border-radius: 16px;" />
+  <img src="images/demo_2.png" width="600" style="border-radius: 16px;" />
 </p>
 
 
