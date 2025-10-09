@@ -162,8 +162,8 @@
     <item>
       <title>Version 0.7b</title>
       <sparkle:version>0.7b</sparkle:version>
-      <pubDate>Thu, 09 Oct 2025 02:17:45 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7b/RevolutionUpdater-0.7b.exe" length="21747200" type="application/octet-stream" sparkle:edSignature="Zmsn7OzZlMK4FoMzRELvp//8kwPvfSXOg+hWsuenUFgL0NcGbDFg9t7mQ2d8OEBi94/1feaj8ESCMv87p9W1BQ==" />
+      <pubDate>Thu, 09 Oct 2025 04:25:21 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7b/RevolutionUpdater-0.7b.exe" length="21747200" type="application/octet-stream" sparkle:edSignature="zTCUQXDbHznCkio3+LYry+ZOlXBllMj/30UgzEecLLzJzUXVoXd3QD5F78YHzgxQQajYp3oWc6Ee8braN8zrBw==" />
       <description><![CDATA[<ul> <li>Added Tad Sync</li> <li>Improved return paths</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
   </channel>
