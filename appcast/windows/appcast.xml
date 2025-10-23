@@ -166,5 +166,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7b/RevolutionUpdater-0.7b.exe" length="21747200" type="application/octet-stream" sparkle:edSignature="zTCUQXDbHznCkio3+LYry+ZOlXBllMj/30UgzEecLLzJzUXVoXd3QD5F78YHzgxQQajYp3oWc6Ee8braN8zrBw==" />
       <description><![CDATA[<ul> <li>Added Tad Sync</li> <li>Improved return paths</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8a</title>
+      <sparkle:version>0.8a</sparkle:version>
+      <pubDate>Thu, 23 Oct 2025 23:39:20 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a/RevolutionUpdater-0.8a.exe" length="21974016" type="application/octet-stream" sparkle:edSignature="VIU7X/PpNOQ8Fyvc/CESgM7RyLwG+coBlK4rA+sin7DH68O5cevwvCscEUHgfNzt5LgShPs2cTxbGThZCr/JCw==" />
+      <description><![CDATA[<ul> <li>Improved AI Gathering</li> <li>Added AI Drift Detection</li> <li>Added support for all resolutions</li> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
