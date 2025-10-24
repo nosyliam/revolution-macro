@@ -173,5 +173,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a/RevolutionUpdater-0.8a.exe" length="21974016" type="application/octet-stream" sparkle:edSignature="VIU7X/PpNOQ8Fyvc/CESgM7RyLwG+coBlK4rA+sin7DH68O5cevwvCscEUHgfNzt5LgShPs2cTxbGThZCr/JCw==" />
       <description><![CDATA[<ul> <li>Improved AI Gathering</li> <li>Added AI Drift Detection</li> <li>Added support for all resolutions</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8a-hotfix1</title>
+      <sparkle:version>0.8a-hotfix1</sparkle:version>
+      <pubDate>Fri, 24 Oct 2025 04:28:09 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix1/RevolutionUpdater-0.8a-hotfix1.exe" length="21974528" type="application/octet-stream" sparkle:edSignature="jfbIhBUC0K1s3pBLQeiNMWVH+j9GGERVvnv3n87FtcTFNvIHLeJdNdlUe9O3V2QriT9nzfWntonlySFH5+VqDw==" />
+      <description><![CDATA[<ul> <li>Various bugfixes</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
