@@ -176,8 +176,8 @@
     <item>
       <title>Version 0.8a-hotfix1</title>
       <sparkle:version>0.8a-hotfix1</sparkle:version>
-      <pubDate>Fri, 24 Oct 2025 04:34:24 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix1/RevolutionUpdater-0.8a-hotfix1.exe" length="21974528" type="application/octet-stream" sparkle:edSignature="ouLlDC+TipA02bijgaFwIipW8xNMWmS9+BiQEt2+V0pRJSgliwE7riuyVjFQQMUlI0qz0Ni6rBCEc8apEc2QCw==" />
+      <pubDate>Fri, 24 Oct 2025 04:55:14 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix1/RevolutionUpdater-0.8a-hotfix1.exe" length="21974528" type="application/octet-stream" sparkle:edSignature="ovMlX6f1Y8lxh3JXNM3mDBEwvETe3E2Ae0k6QYLffiii2Ug8xXLOfXPwn7AvEMJUvvm1Q5uvbcuhOjTUdULMAg==" />
       <description><![CDATA[<ul> <li>Various bugfixes</li> </ul>]]></description>
     </item>
   </channel>
