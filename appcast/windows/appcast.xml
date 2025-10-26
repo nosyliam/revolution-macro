@@ -187,5 +187,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix2/RevolutionUpdater-0.8a-hotfix2.exe" length="21975040" type="application/octet-stream" sparkle:edSignature="9YnzRPrqRS7MBlQnlMoRyBWEDmqhVoJ9XQ1KRTjQsLaYeEil/Xp07xG/c8uRi1TP/E8VfqXjh8Iiq3Sj07ptCg==" />
       <description><![CDATA[<ul> <li>Fixed a crash related to pathfinding</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8a-hotfix3</title>
+      <sparkle:version>0.8a-hotfix3</sparkle:version>
+      <pubDate>Sun, 26 Oct 2025 22:11:51 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix3/RevolutionUpdater-0.8a-hotfix3.exe" length="21976576" type="application/octet-stream" sparkle:edSignature="mhyQgItysu8phXlzRdPlzB2jQtyOyzW6XKWcgIXUzlku95ijyzyG0f0dMdYg8AwSuTCB66QP4BHzZt5rhwYaAQ==" />
+      <description><![CDATA[<ul> <li>Added another mirror for dependencies</li> <li>Fixed several crashes</li> <li>Fixed conversion bugs</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
