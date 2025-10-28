@@ -194,5 +194,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix3/RevolutionUpdater-0.8a-hotfix3.exe" length="21976576" type="application/octet-stream" sparkle:edSignature="mhyQgItysu8phXlzRdPlzB2jQtyOyzW6XKWcgIXUzlku95ijyzyG0f0dMdYg8AwSuTCB66QP4BHzZt5rhwYaAQ==" />
       <description><![CDATA[<ul> <li>Added another mirror for dependencies</li> <li>Fixed several crashes</li> <li>Fixed conversion bugs</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8a-hotfix4</title>
+      <sparkle:version>0.8a-hotfix4</sparkle:version>
+      <pubDate>Tue, 28 Oct 2025 22:42:17 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix4/RevolutionUpdater-0.8a-hotfix4.exe" length="21976064" type="application/octet-stream" sparkle:edSignature="LCzXVZPLZyk5iqquoErQhbdf79LrjjtSn2Lr9klm1bUeds1GYHu9YTbgBT+IF0y3kdRgmKeK5KTh6fcAz2vFDg==" />
+      <description><![CDATA[<ul> <li>Added a new source for OCR models</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
