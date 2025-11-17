@@ -201,5 +201,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix4/RevolutionUpdater-0.8a-hotfix4.exe" length="21976064" type="application/octet-stream" sparkle:edSignature="LCzXVZPLZyk5iqquoErQhbdf79LrjjtSn2Lr9klm1bUeds1GYHu9YTbgBT+IF0y3kdRgmKeK5KTh6fcAz2vFDg==" />
       <description><![CDATA[<ul> <li>Added a new source for OCR models</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8b</title>
+      <sparkle:version>0.8b</sparkle:version>
+      <pubDate>Mon, 17 Nov 2025 03:40:30 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b/RevolutionUpdater-0.8b.exe" length="23740928" type="application/octet-stream" sparkle:edSignature="yfCE1OM0XYrwBebFeuhhR34e4wbgXpLqTNWqZt+Mbs8h/zpw0G4tvqmadLf/v6P4mC3slzVxyWCplLOsQVsPAQ==" />
+      <description><![CDATA[<ul> <li>Added hourly reports</li> <li>Overhauled the planter system</li> <li>Many other improvements and optimizations</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
