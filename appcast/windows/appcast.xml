@@ -215,5 +215,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b-hotfix1/RevolutionUpdater-0.8b-hotfix1.exe" length="23741440" type="application/octet-stream" sparkle:edSignature="Rydft3Gvdch8WjZXwyldzyNn+zgFG93m2tN9ncnVsaxKQ+wHonyQeYpt49pNJcuvPOpt8b4In+KHisIkdks0Bg==" />
       <description><![CDATA[<ul> <li>Fixed a bug with haste detection</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8c</title>
+      <sparkle:version>0.8c</sparkle:version>
+      <pubDate>Sat, 13 Dec 2025 20:32:15 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8c/RevolutionUpdater-0.8c.exe" length="23734272" type="application/octet-stream" sparkle:edSignature="pQECr4kNR1YtD3zb04n3wphDBTWRTPOVzjtzyBEuKU2N+z8r3vL9GpG+1q/kUVQT4Twh+v1te2rRFmcziS+QCQ==" />
+      <description><![CDATA[<ul> <li>Added significant performance optimizations</li> <li>Adding a log viewer to the status tab</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
