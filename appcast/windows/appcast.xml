@@ -236,5 +236,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d/RevolutionUpdater-0.8d.exe" length="24061952" type="application/octet-stream" sparkle:edSignature="ErUF/Zq3GLCtqkJekvB/g7jAjnGFalDcVzYozsRAXCDTFkszo3P5XsWP+PYmr7hrpnpSrkzoXjtuDWOMsaz9Dw==" />
       <description><![CDATA[<ul> <li>Added beesmas dispensers</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.8d-hotfix1</title>
+      <sparkle:version>0.8d-hotfix1</sparkle:version>
+      <pubDate>Mon, 29 Dec 2025 04:00:00 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d-hotfix1/RevolutionUpdater-0.8d-hotfix1.exe" length="24067072" type="application/octet-stream" sparkle:edSignature="9SBtKt91YmT19i0/A6HnjwyHUGeivNq74Ma03OEFLD5uFGZpIIMcIHJXx+n29uS9MkNSiYGFy59ErUYZaT3cDQ==" />
+      <description><![CDATA[<ul> <li>Fixed Beesmas dispensers</li> <li>Fixed several quest-related bugs</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
