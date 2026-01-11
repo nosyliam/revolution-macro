@@ -243,5 +243,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d-hotfix1/RevolutionUpdater-0.8d-hotfix1.exe" length="24067072" type="application/octet-stream" sparkle:edSignature="9SBtKt91YmT19i0/A6HnjwyHUGeivNq74Ma03OEFLD5uFGZpIIMcIHJXx+n29uS9MkNSiYGFy59ErUYZaT3cDQ==" />
       <description><![CDATA[<ul> <li>Fixed Beesmas dispensers</li> <li>Fixed several quest-related bugs</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9a</title>
+      <sparkle:version>0.9a</sparkle:version>
+      <pubDate>Sun, 11 Jan 2026 04:50:43 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9a/RevolutionUpdater-0.9a.exe" length="24160768" type="application/octet-stream" sparkle:edSignature="616cDQVcavaQMW97OKbVV/vKWY890MEJxTAS4TzYCJwPOrmZA2k2nBBN84qB6V7A9hdnGq0v1q4hXaSSiRqcBw==" />
+      <description><![CDATA[<ul> <li>Added repeatable quests</li> <li>Added presets</li> <li>Added Sticker Printer and Honeystorm</li> <li>Many other bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
