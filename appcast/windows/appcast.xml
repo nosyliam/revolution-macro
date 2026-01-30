@@ -264,5 +264,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix1/RevolutionUpdater-0.9b-hotfix1.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="Utf35zxTrylgUqa2Xo8LDLdlDWb9WwllmuN610JT5qxETM3LfaA/nuhY4EoRXTrd1/rDGLaKWQmOpagGV0qkCA==" />
       <description><![CDATA[<ul> <li>Fixed red cannon detection</li> <li>Improved bloom drift</li> <li>Other bugfixes and improvements</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix2</title>
+      <sparkle:version>0.9b-hotfix2</sparkle:version>
+      <pubDate>Fri, 30 Jan 2026 07:44:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix2/RevolutionUpdater-0.9b-hotfix2.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="o9VsvVMIqTFbbH4OR0l3Cod0D3dQ65xvV0wiMLdfK47y2HjUfkeV/cN9x2VoMX6kw2McmSurL6BPyCtMPT4+Cg==" />
+      <description><![CDATA[<ul> <li>Fixed quest fruit collection</li> <li>Fixed sticker stack collection</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
