@@ -257,5 +257,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b/RevolutionUpdater-0.9b.exe" length="24583168" type="application/octet-stream" sparkle:edSignature="mKWjAt8fD2uBaoUc0HoEzE3BOCMy1+04SVnqpaK9GrOgdOsARN4BzBfE1cQMS+D0vstWKTouilBmnVnk1xPWCg==" />
       <description><![CDATA[<ul> <li>Added support for petal quests</li> <li>Added global relays</li> <li>Added more bot commands</li> <li>Tons of bugfixes and improvements</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix1</title>
+      <sparkle:version>0.9b-hotfix1</sparkle:version>
+      <pubDate>Fri, 30 Jan 2026 05:24:55 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix1/RevolutionUpdater-0.9b-hotfix1.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="Utf35zxTrylgUqa2Xo8LDLdlDWb9WwllmuN610JT5qxETM3LfaA/nuhY4EoRXTrd1/rDGLaKWQmOpagGV0qkCA==" />
+      <description><![CDATA[<ul> <li>Fixed red cannon detection</li> <li>Improved bloom drift</li> <li>Other bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
