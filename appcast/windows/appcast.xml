@@ -271,5 +271,12 @@
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix2/RevolutionUpdater-0.9b-hotfix2.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="o9VsvVMIqTFbbH4OR0l3Cod0D3dQ65xvV0wiMLdfK47y2HjUfkeV/cN9x2VoMX6kw2McmSurL6BPyCtMPT4+Cg==" />
       <description><![CDATA[<ul> <li>Fixed quest fruit collection</li> <li>Fixed sticker stack collection</li> </ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix3</title>
+      <sparkle:version>0.9b-hotfix3</sparkle:version>
+      <pubDate>Fri, 06 Feb 2026 05:12:31 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix3/RevolutionUpdater-0.9b-hotfix3.exe" length="25142784" type="application/octet-stream" sparkle:edSignature="WOD/NuEqd7DT3ouEgnHjxa594ZdNUJv8BCUvCIpe1R5zH9p6czecVR8fHEMrXRjN2JTbWpK5WZo7v3DWziqjDw==" />
+      <description><![CDATA[<ul> <li>Various bugfixes and improvements</li> </ul>]]></description>
+    </item>
   </channel>
 </rss>
