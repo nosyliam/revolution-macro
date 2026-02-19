@@ -4,7 +4,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -14,7 +18,11 @@
     
     
     
+    
+    
     <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
+    
+    
     
     
     
@@ -24,24 +32,38 @@
     
     
     
+    
+    
     <language>en</language>
+    
     
     
   
     
+    
     <item>
+      
+      
       
       
       <title>Version 0.9b-hotfix3</title>
       
       
+      
+      
       <sparkle:version>0.9b-hotfix3</sparkle:version>
+      
+      
       
       
       <pubDate>Thu, 19 Feb 2026 21:54:42 GMT</pubDate>
       
       
+      
+      
       <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix3/RevolutionMacro-0.9b-hotfix3.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      
+      
       
       
       <description><![CDATA[<ul>
@@ -49,13 +71,33 @@
 </ul>
 ]]></description>
       
+      
+    
     
     </item>
     
+    
   
+  
+    <item>
+      <title>Version 0.9b-hotfix4</title>
+      <sparkle:version>0.9b-hotfix4</sparkle:version>
+      <pubDate>Thu, 19 Feb 2026 22:12:16 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      <description><![CDATA[<ul>
+<li>Reworked the planter scheduling system</li>
+<li>Added an option to buy ant passes</li>
+<li>Added new routing options</li>
+<li>Fixed numerous quest detection bugs</li>
+<li>Tons of bugfixes and optimizations</li>
+</ul>
+]]></description>
+    </item>
   </channel>
   
   
+  
+
 
 
 </rss>
