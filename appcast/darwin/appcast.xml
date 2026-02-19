@@ -2,32 +2,60 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   
   
+  
+  
   <channel>
+    
+    
     
     
     <title>Revolution Macro Updates</title>
     
     
+    
+    
     <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
+    
+    
     
     
     <description>AppCast for Revolution Macro (macOS)</description>
     
     
+    
+    
     <language>en</language>
     
+    
   
+    
     <item>
+      
+      
       <title>Version 0.9b-hotfix3</title>
+      
+      
       <sparkle:version>0.9b-hotfix3</sparkle:version>
-      <pubDate>Thu, 19 Feb 2026 21:50:51 GMT</pubDate>
+      
+      
+      <pubDate>Thu, 19 Feb 2026 21:54:42 GMT</pubDate>
+      
+      
       <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix3/RevolutionMacro-0.9b-hotfix3.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      
+      
       <description><![CDATA[<ul>
 <li>Various bugfixes and improvements</li>
 </ul>
 ]]></description>
+      
+    
     </item>
+    
+  
   </channel>
   
+  
+
 
 </rss>
