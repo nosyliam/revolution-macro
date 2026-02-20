@@ -6,7 +6,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -20,7 +24,11 @@
     
     
     
+    
+    
     <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
+    
+    
     
     
     
@@ -34,14 +42,20 @@
     
     
     
+    
+    
     <language>en</language>
+    
     
     
     
   
     
     
+    
     <item>
+      
+      
       
       
       
@@ -51,7 +65,11 @@
       
       
       
+      
+      
       <sparkle:version>0.9b-hotfix3</sparkle:version>
+      
+      
       
       
       
@@ -61,7 +79,11 @@
       
       
       
+      
+      
       <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix3/RevolutionMacro-0.9b-hotfix3.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      
+      
       
       
       
@@ -72,18 +94,32 @@
 ]]></description>
       
       
+      
+    
     
     
     </item>
     
     
+    
   
   
+    
     <item>
+      
+      
       <title>Version 0.9b-hotfix4</title>
-      <sparkle:version>0.9b-hotfix4</sparkle:version>
-      <pubDate>Thu, 19 Feb 2026 22:12:16 GMT</pubDate>
-      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      
+      
+      <sparkle:version>90204</sparkle:version>
+      
+      
+      <pubDate>Fri, 20 Feb 2026 01:33:30 GMT</pubDate>
+      
+      
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47580322" type="application/octet-stream" sparkle:edSignature="/00pAAB/CcxT5ojzXrzLTLBJHwakN05t8sUcc0MNaLfkSJHEqK/1uXHNsAYnQvpuUW0H4c1ROoJ7flLXXL6PAA=="/>
+      
+      
       <description><![CDATA[<ul>
 <li>Reworked the planter scheduling system</li>
 <li>Added an option to buy ant passes</li>
@@ -92,11 +128,18 @@
 <li>Tons of bugfixes and optimizations</li>
 </ul>
 ]]></description>
+      
+    
+      <sparkle:shortVersionString>0.9b-hotfix4</sparkle:shortVersionString>
     </item>
+    
+  
   </channel>
   
   
   
+  
+
 
 
 
