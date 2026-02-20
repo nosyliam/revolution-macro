@@ -30,5 +30,16 @@
 ]]></description>
       <sparkle:shortVersionString>0.9b-hotfix4</sparkle:shortVersionString>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix5</title>
+      <sparkle:version>90205</sparkle:version>
+      <sparkle:shortVersionString>0.9b-hotfix5</sparkle:shortVersionString>
+      <pubDate>Fri, 20 Feb 2026 23:17:17 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix5/RevolutionMacro.dmg" length="47579902" type="application/octet-stream" sparkle:edSignature="Krl/XgmlakIEdzYe8KK3WHI9ZDj7s8sX6cj7VAwApGmPDtTE7I4CRJX3hEVWIsCqKMPdSY8SLJM7jho0tYxZAg=="/>
+      <description><![CDATA[<ul>
+<li>Test release</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
