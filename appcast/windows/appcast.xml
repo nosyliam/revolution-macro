@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Revolution Macro Updates</title>
     <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
@@ -9,274 +9,288 @@
       <title>Version 0.4a-hotfix2</title>
       <sparkle:version>0.4a-hotfix2</sparkle:version>
       <pubDate>Tue, 03 Jun 2025 02:49:01 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix2/RevolutionUpdater-0.4a-hotfix2.exe" length="19061760" type="application/octet-stream" sparkle:edSignature="pNOcvBoPEmh4S0rc64l+xF/vNEJpKTThIAa0221jm5jY18cVTOa73HuCDvwmoEm93u+mNpoMSKfXpgn2wWahAg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix2/RevolutionUpdater-0.4a-hotfix2.exe" length="19061760" type="application/octet-stream" sparkle:edSignature="pNOcvBoPEmh4S0rc64l+xF/vNEJpKTThIAa0221jm5jY18cVTOa73HuCDvwmoEm93u+mNpoMSKfXpgn2wWahAg=="/>
       <description><![CDATA[<ul> <li>Added auto-update to the macro</li> <li>Fixed several bugs that will make your experience even better!</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.4a-hotfix3</title>
       <sparkle:version>0.4a-hotfix3</sparkle:version>
       <pubDate>Tue, 03 Jun 2025 14:14:09 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix3/RevolutionUpdater-0.4a-hotfix3.exe" length="19061248" type="application/octet-stream" sparkle:edSignature="uFbkOi7kPdvv+lwZqIYrXmLaHUejcGdzGkXlimrw55Y6YInvBWekuT0Wd7ZiNp+JXxcySlYBXR8rmF7bqEmMDw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix3/RevolutionUpdater-0.4a-hotfix3.exe" length="19061248" type="application/octet-stream" sparkle:edSignature="uFbkOi7kPdvv+lwZqIYrXmLaHUejcGdzGkXlimrw55Y6YInvBWekuT0Wd7ZiNp+JXxcySlYBXR8rmF7bqEmMDw=="/>
       <description><![CDATA[<ul> <li>Fixed a bug that caused AI models to not be downloaded properly</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.4a-hotfix4</title>
       <sparkle:version>0.4a-hotfix4</sparkle:version>
       <pubDate>Wed, 11 Jun 2025 19:33:05 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix4/RevolutionUpdater-0.4a-hotfix4.exe" length="19075584" type="application/octet-stream" sparkle:edSignature="YgljUbi4RC9fWFjjtJohHpAU62PBs35pnwScbu8pU/48+4w4bm//D1ngi1Rhkrck9/mQeL4KW/b9R7S7TmyTBg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4a-hotfix4/RevolutionUpdater-0.4a-hotfix4.exe" length="19075584" type="application/octet-stream" sparkle:edSignature="YgljUbi4RC9fWFjjtJohHpAU62PBs35pnwScbu8pU/48+4w4bm//D1ngi1Rhkrck9/mQeL4KW/b9R7S7TmyTBg=="/>
       <description><![CDATA[<ul> <li>Added a new AI detection model</li> <li>Improved the Legacy screen capture mode</li> <li>Improved pathing from the hives to the cannon</li> <li>Improved the Pepper search path</li> <li>Fixed several bugs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.4b</title>
       <sparkle:version>0.4b</sparkle:version>
       <pubDate>Sun, 22 Jun 2025 03:18:21 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4b/RevolutionUpdater-0.4b.exe" length="19152896" type="application/octet-stream" sparkle:edSignature="pNFzSnfly2C71aNUz+Tgy4LgCJMvfMfe1QsrkAsztsgxJHroUepvPD3INAQXFzHzyhfSaFdr4y5+tcaYx+rwBA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.4b/RevolutionUpdater-0.4b.exe" length="19152896" type="application/octet-stream" sparkle:edSignature="pNFzSnfly2C71aNUz+Tgy4LgCJMvfMfe1QsrkAsztsgxJHroUepvPD3INAQXFzHzyhfSaFdr4y5+tcaYx+rwBA=="/>
       <description><![CDATA[<ul> <li>Added a new RBC gathering macro</li> <li>Added a Vic Hop rejoin timer</li> <li>Improved various paths</li> <li>Fixed numerous bugs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a</title>
       <sparkle:version>0.5a</sparkle:version>
       <pubDate>Tue, 19 Aug 2025 20:42:02 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uFoRmYIlMQmERyWbOwnk6eXNNmhXzUEpbsEx+KTw7UKZzVF1AVwicj8d/17lzsiTmxocOUZd41QX0H3xLJipCg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a/RevolutionUpdater-0.5a.exe" length="20830720" type="application/octet-stream" sparkle:edSignature="uFoRmYIlMQmERyWbOwnk6eXNNmhXzUEpbsEx+KTw7UKZzVF1AVwicj8d/17lzsiTmxocOUZd41QX0H3xLJipCg=="/>
       <description><![CDATA[<ul> <li>Added Planter Studio, an interactive planter scheduling system</li> <li>Added AI Gathering</li> <li>Added Bug Run</li> <li>Added collection for all dispensers</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix1</title>
       <sparkle:version>0.5a-hotfix1</sparkle:version>
       <pubDate>Wed, 20 Aug 2025 04:14:41 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix1/RevolutionUpdater-0.5a-hotfix1.exe" length="20840960" type="application/octet-stream" sparkle:edSignature="mhA7RYX94sw5PMxIIKhJdeKrNGaxB/tzR/wdVwWMUHOuldm6021PCnahuCTQXlHhlKRpsL7a59G3HuFwTdPSAg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix1/RevolutionUpdater-0.5a-hotfix1.exe" length="20840960" type="application/octet-stream" sparkle:edSignature="mhA7RYX94sw5PMxIIKhJdeKrNGaxB/tzR/wdVwWMUHOuldm6021PCnahuCTQXlHhlKRpsL7a59G3HuFwTdPSAg=="/>
       <description><![CDATA[<ul> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix2</title>
       <sparkle:version>0.5a-hotfix2</sparkle:version>
       <pubDate>Wed, 20 Aug 2025 06:46:10 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix2/RevolutionUpdater-0.5a-hotfix2.exe" length="20832768" type="application/octet-stream" sparkle:edSignature="vqcRw5EogCoKAXithNP8OEieYolp5qhWG5wUdA6VRvQRuk0M/Ymun7ogUQ0th5Pt3XGdXyea0ZizfDsdVT5wCA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix2/RevolutionUpdater-0.5a-hotfix2.exe" length="20832768" type="application/octet-stream" sparkle:edSignature="vqcRw5EogCoKAXithNP8OEieYolp5qhWG5wUdA6VRvQRuk0M/Ymun7ogUQ0th5Pt3XGdXyea0ZizfDsdVT5wCA=="/>
       <description><![CDATA[<ul> <li>Fix network relay</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix3</title>
       <sparkle:version>0.5a-hotfix3</sparkle:version>
       <pubDate>Fri, 22 Aug 2025 18:51:30 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix3/RevolutionUpdater-0.5a-hotfix3.exe" length="20846080" type="application/octet-stream" sparkle:edSignature="Xd971m38pEBLF8IMqjzUxB7yll60cvJpnYG0GdRTcTRP7oeXSZmAMHhXHPBSKDd6IWBOiSLuBHVO+uP1DiD8Bg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix3/RevolutionUpdater-0.5a-hotfix3.exe" length="20846080" type="application/octet-stream" sparkle:edSignature="Xd971m38pEBLF8IMqjzUxB7yll60cvJpnYG0GdRTcTRP7oeXSZmAMHhXHPBSKDd6IWBOiSLuBHVO+uP1DiD8Bg=="/>
       <description><![CDATA[<ul> <li>Improved the success rate of server hopping</li> <li>Fixed a bug with hotkeys</li> <li>Fixed a bug with planters not being found in the inventory</li> <li>Automatically close Roblox error dialogs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix4</title>
       <sparkle:version>0.5a-hotfix4</sparkle:version>
       <pubDate>Sun, 24 Aug 2025 01:28:41 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix4/RevolutionUpdater-0.5a-hotfix4.exe" length="20860416" type="application/octet-stream" sparkle:edSignature="2Fwl4+8voVnbtwbZSZ091Euyn9iJS5KXs0vSKrW7NYxWMLVwNVIfdUCYdZ1DpznEPuhMmbFYY7TvEY3wDzg1Ag==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix4/RevolutionUpdater-0.5a-hotfix4.exe" length="20860416" type="application/octet-stream" sparkle:edSignature="2Fwl4+8voVnbtwbZSZ091Euyn9iJS5KXs0vSKrW7NYxWMLVwNVIfdUCYdZ1DpznEPuhMmbFYY7TvEY3wDzg1Ag=="/>
       <description><![CDATA[<ul> <li>Fixed hive claim bugs</li> <li>Fix planter soft-lock</li> <li>Fix dipper not being used</li> <li>Improved server hop accuracy</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix5</title>
       <sparkle:version>0.5a-hotfix5</sparkle:version>
       <pubDate>Sun, 24 Aug 2025 03:17:00 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix5/RevolutionUpdater-0.5a-hotfix5.exe" length="20860416" type="application/octet-stream" sparkle:edSignature="gevdnkrGc4WouqO5HHOHGSXcgCAQAXz87EXddW+I6tHQ6lc4TFXpheHQSW0pBCBKJ18Q2DcQqS6SB4Ujr8cwAA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix5/RevolutionUpdater-0.5a-hotfix5.exe" length="20860416" type="application/octet-stream" sparkle:edSignature="gevdnkrGc4WouqO5HHOHGSXcgCAQAXz87EXddW+I6tHQ6lc4TFXpheHQSW0pBCBKJ18Q2DcQqS6SB4Ujr8cwAA=="/>
       <description><![CDATA[<ul> <li>Fixed hive claim bugs</li> <li>Fix planter soft-lock</li> <li>Fix dipper not being used</li> <li>Improved server hop accuracy</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix6</title>
       <sparkle:version>0.5a-hotfix6</sparkle:version>
       <pubDate>Sun, 24 Aug 2025 06:01:39 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix6/RevolutionUpdater-0.5a-hotfix6.exe" length="20860928" type="application/octet-stream" sparkle:edSignature="Ies2qFlkrXflgUWkM3ulTMXFDrXddEPX6SEMLm3SbGUxUfHRwKrg7SboED5mYFiFMHBQI6l+o3zlE46x/rM2Cw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix6/RevolutionUpdater-0.5a-hotfix6.exe" length="20860928" type="application/octet-stream" sparkle:edSignature="Ies2qFlkrXflgUWkM3ulTMXFDrXddEPX6SEMLm3SbGUxUfHRwKrg7SboED5mYFiFMHBQI6l+o3zlE46x/rM2Cw=="/>
       <description><![CDATA[<ul> <li>Fixed a soft-lock when server hopping</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5a-hotfix7</title>
       <sparkle:version>0.5a-hotfix7</sparkle:version>
       <pubDate>Tue, 26 Aug 2025 00:34:58 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="20861440" type="application/octet-stream" sparkle:edSignature="3tuQaVHjnMke0Gt2rBfEV4MeyH52XmhxZQ1JH5Y8m6oi5O9JQgYkuoO+gEnwmJG9pNBk9o1YYnNweeSLoCX2Dg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5a-hotfix7/RevolutionUpdater-0.5a-hotfix7.exe" length="20861440" type="application/octet-stream" sparkle:edSignature="3tuQaVHjnMke0Gt2rBfEV4MeyH52XmhxZQ1JH5Y8m6oi5O9JQgYkuoO+gEnwmJG9pNBk9o1YYnNweeSLoCX2Dg=="/>
       <description><![CDATA[<ul> <li>Fixed a crash related to buff detection</li> <li>Fixed a crash related to server hopping</li> <li>Fixed server hopping getting stuck</li> <li>Fixed some nectars not being detected</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5b</title>
       <sparkle:version>0.5b</sparkle:version>
       <pubDate>Mon, 01 Sep 2025 00:37:40 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="1FA+accG9LiQ8R9R2bOOynXZhyiSoAByNTsE2uOmDI2KaY9P2YtMkWnf6+eEEkRD0aYvZ3tY2LMTXhkQw/zqBw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b/RevolutionUpdater-0.5b.exe" length="20900352" type="application/octet-stream" sparkle:edSignature="1FA+accG9LiQ8R9R2bOOynXZhyiSoAByNTsE2uOmDI2KaY9P2YtMkWnf6+eEEkRD0aYvZ3tY2LMTXhkQw/zqBw=="/>
       <description><![CDATA[<ul> <li>Added Mondo Hop (with alt support)</li> <li>Added performance optimizations</li> <li>Fixed Vic Hop with planters</li> <li>Added AI support for Windows 10</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5b-hotfix1</title>
       <sparkle:version>0.5b-hotfix1</sparkle:version>
       <pubDate>Fri, 05 Sep 2025 06:44:23 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900864" type="application/octet-stream" sparkle:edSignature="Gt5wYr6kkFYt/+PcMXnYaQ2J27+zyRSHBqEB1FP+LWDiYXDm+1xHsTNY/ym4UdyLGe3lT7dtUgD5Sgaz2A6UDg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5b-hotfix1/RevolutionUpdater-0.5b-hotfix1.exe" length="20900864" type="application/octet-stream" sparkle:edSignature="Gt5wYr6kkFYt/+PcMXnYaQ2J27+zyRSHBqEB1FP+LWDiYXDm+1xHsTNY/ym4UdyLGe3lT7dtUgD5Sgaz2A6UDg=="/>
       <description><![CDATA[<ul> <li>Improved pine return path</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5c</title>
       <sparkle:version>0.5c</sparkle:version>
       <pubDate>Fri, 12 Sep 2025 05:57:48 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="JaaI0dwq3xEOnXaysZo3PVYGUps7NlQp+DMk2/E6oRfExVQMY42u4bD+er7a/Uizpz3o1ybPBaCqvFWgHn6zCw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c/RevolutionUpdater-0.5c.exe" length="20969472" type="application/octet-stream" sparkle:edSignature="JaaI0dwq3xEOnXaysZo3PVYGUps7NlQp+DMk2/E6oRfExVQMY42u4bD+er7a/Uizpz3o1ybPBaCqvFWgHn6zCw=="/>
       <description><![CDATA[<ul> <li>Improved the auto-planter algorithm</li> <li>Added field degradation calculations</li> <li>Added additional fail-safes for planters</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.5c-hotfix1</title>
       <sparkle:version>0.5c-hotfix1</sparkle:version>
       <pubDate>Fri, 12 Sep 2025 16:08:29 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c-hotfix1/RevolutionUpdater-0.5c-hotfix1.exe" length="20972032" type="application/octet-stream" sparkle:edSignature="VYfLZhp7mVoYcUPobdUZ2aR8IEIXVelhHSTMNK101cY7qCOGHK0wwfQnANwIX9XFKdsOOsWqFF4j8LaFVxSODA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.5c-hotfix1/RevolutionUpdater-0.5c-hotfix1.exe" length="20972032" type="application/octet-stream" sparkle:edSignature="VYfLZhp7mVoYcUPobdUZ2aR8IEIXVelhHSTMNK101cY7qCOGHK0wwfQnANwIX9XFKdsOOsWqFF4j8LaFVxSODA=="/>
       <description><![CDATA[<ul> <li>Fixed a hive conversion soft-lock</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.6a</title>
       <sparkle:version>0.6a</sparkle:version>
       <pubDate>Sat, 20 Sep 2025 15:47:39 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a/RevolutionUpdater-0.6a.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="aaM22+pakCppNiGmQbY8rP0ICQGT0DAkPGcY1GOw8r9fFFG3muP2XxR6EwP7iTcWTSubZgjSUENcERl07zbfDg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a/RevolutionUpdater-0.6a.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="aaM22+pakCppNiGmQbY8rP0ICQGT0DAkPGcY1GOw8r9fFFG3muP2XxR6EwP7iTcWTSubZgjSUENcERl07zbfDg=="/>
       <description><![CDATA[<ul> <li>Added Polar Bear quests</li> <li>Optimized AI gathering</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.6a-hotfix1</title>
       <sparkle:version>0.6a-hotfix1</sparkle:version>
       <pubDate>Sun, 21 Sep 2025 21:34:16 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix1/RevolutionUpdater-0.6a-hotfix1.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="a70izeuecDkZ2Bazid/G0bxMJAy6jVaMxT0N1ztgKpgwc3aG5Dd16NLxoc2q+IymuzakwhL3afV+xrbN06M0CQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix1/RevolutionUpdater-0.6a-hotfix1.exe" length="21057536" type="application/octet-stream" sparkle:edSignature="a70izeuecDkZ2Bazid/G0bxMJAy6jVaMxT0N1ztgKpgwc3aG5Dd16NLxoc2q+IymuzakwhL3afV+xrbN06M0CQ=="/>
       <description><![CDATA[<ul> <li>Fixed a soft-lock related to Supreme Saturator detection</li> <li>Fixed an issue that caused AI models not to load</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.6a-hotfix2</title>
       <sparkle:version>0.6a-hotfix2</sparkle:version>
       <pubDate>Tue, 23 Sep 2025 21:17:23 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix2/RevolutionUpdater-0.6a-hotfix2.exe" length="21066752" type="application/octet-stream" sparkle:edSignature="9xuXFB3K0tnpt0ad1kvHk7BwrKWRGtxZPU2N8b3EwKMYVywbFnKQFPmFY5VKsiFbkxJjw/V50SzEJQzop9szDA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix2/RevolutionUpdater-0.6a-hotfix2.exe" length="21066752" type="application/octet-stream" sparkle:edSignature="9xuXFB3K0tnpt0ad1kvHk7BwrKWRGtxZPU2N8b3EwKMYVywbFnKQFPmFY5VKsiFbkxJjw/V50SzEJQzop9szDA=="/>
       <description><![CDATA[<ul> <li>Added an improved pine return path</li> <li>Improved the networking system</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.6a-hotfix3</title>
       <sparkle:version>0.6a-hotfix3</sparkle:version>
       <pubDate>Thu, 25 Sep 2025 23:30:18 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix3/RevolutionUpdater-0.6a-hotfix3.exe" length="21320704" type="application/octet-stream" sparkle:edSignature="dbqAjld++V0s945otLBkRoumYIEM9rdhcZMmQOJoLjogtIX7zhOiIfLQtp3xtrOsKJHh8lB77czMVUGUOE+iAw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.6a-hotfix3/RevolutionUpdater-0.6a-hotfix3.exe" length="21320704" type="application/octet-stream" sparkle:edSignature="dbqAjld++V0s945otLBkRoumYIEM9rdhcZMmQOJoLjogtIX7zhOiIfLQtp3xtrOsKJHh8lB77czMVUGUOE+iAw=="/>
       <description><![CDATA[<ul> <li>Added partner servers to the credits</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.7a</title>
       <sparkle:version>0.7a</sparkle:version>
       <pubDate>Fri, 03 Oct 2025 19:22:25 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7a/RevolutionUpdater-0.7a.exe" length="21731328" type="application/octet-stream" sparkle:edSignature="g/m901UXgYiWjYgLQ9uyGAvrbW9e8tbIWLGs/G3GhYqGOF6JQtHWOk0eK4NzHb0hgrovIclN9+RNpt5AlU9FDA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7a/RevolutionUpdater-0.7a.exe" length="21731328" type="application/octet-stream" sparkle:edSignature="g/m901UXgYiWjYgLQ9uyGAvrbW9e8tbIWLGs/G3GhYqGOF6JQtHWOk0eK4NzHb0hgrovIclN9+RNpt5AlU9FDA=="/>
       <description><![CDATA[<ul> <li>Added Buff Usage</li> <li>Added Sticker Stack</li> <li>Added Mondo Buff</li> <li>Added HQ Boosters</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.7a-hotfix1</title>
       <sparkle:version>0.7a-hotfix1</sparkle:version>
       <pubDate>Sun, 05 Oct 2025 18:39:46 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7a-hotfix1/RevolutionUpdater-0.7a-hotfix1.exe" length="21731328" type="application/octet-stream" sparkle:edSignature="mAwpZbg+HUFxFL7IB2FMRietxIgi6kpViddB1s+pFqXH7ySgF+ED53yCr8Sv1Wx6rNaV0zQboy9Mf1keAd7bBQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7a-hotfix1/RevolutionUpdater-0.7a-hotfix1.exe" length="21731328" type="application/octet-stream" sparkle:edSignature="mAwpZbg+HUFxFL7IB2FMRietxIgi6kpViddB1s+pFqXH7ySgF+ED53yCr8Sv1Wx6rNaV0zQboy9Mf1keAd7bBQ=="/>
       <description><![CDATA[<ul> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.7b</title>
       <sparkle:version>0.7b</sparkle:version>
       <pubDate>Thu, 09 Oct 2025 04:25:21 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7b/RevolutionUpdater-0.7b.exe" length="21747200" type="application/octet-stream" sparkle:edSignature="zTCUQXDbHznCkio3+LYry+ZOlXBllMj/30UgzEecLLzJzUXVoXd3QD5F78YHzgxQQajYp3oWc6Ee8braN8zrBw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.7b/RevolutionUpdater-0.7b.exe" length="21747200" type="application/octet-stream" sparkle:edSignature="zTCUQXDbHznCkio3+LYry+ZOlXBllMj/30UgzEecLLzJzUXVoXd3QD5F78YHzgxQQajYp3oWc6Ee8braN8zrBw=="/>
       <description><![CDATA[<ul> <li>Added Tad Sync</li> <li>Improved return paths</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8a</title>
       <sparkle:version>0.8a</sparkle:version>
       <pubDate>Thu, 23 Oct 2025 23:39:20 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a/RevolutionUpdater-0.8a.exe" length="21974016" type="application/octet-stream" sparkle:edSignature="VIU7X/PpNOQ8Fyvc/CESgM7RyLwG+coBlK4rA+sin7DH68O5cevwvCscEUHgfNzt5LgShPs2cTxbGThZCr/JCw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a/RevolutionUpdater-0.8a.exe" length="21974016" type="application/octet-stream" sparkle:edSignature="VIU7X/PpNOQ8Fyvc/CESgM7RyLwG+coBlK4rA+sin7DH68O5cevwvCscEUHgfNzt5LgShPs2cTxbGThZCr/JCw=="/>
       <description><![CDATA[<ul> <li>Improved AI Gathering</li> <li>Added AI Drift Detection</li> <li>Added support for all resolutions</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8a-hotfix1</title>
       <sparkle:version>0.8a-hotfix1</sparkle:version>
       <pubDate>Fri, 24 Oct 2025 04:55:14 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix1/RevolutionUpdater-0.8a-hotfix1.exe" length="21974528" type="application/octet-stream" sparkle:edSignature="ovMlX6f1Y8lxh3JXNM3mDBEwvETe3E2Ae0k6QYLffiii2Ug8xXLOfXPwn7AvEMJUvvm1Q5uvbcuhOjTUdULMAg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix1/RevolutionUpdater-0.8a-hotfix1.exe" length="21974528" type="application/octet-stream" sparkle:edSignature="ovMlX6f1Y8lxh3JXNM3mDBEwvETe3E2Ae0k6QYLffiii2Ug8xXLOfXPwn7AvEMJUvvm1Q5uvbcuhOjTUdULMAg=="/>
       <description><![CDATA[<ul> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8a-hotfix2</title>
       <sparkle:version>0.8a-hotfix2</sparkle:version>
       <pubDate>Fri, 24 Oct 2025 06:30:38 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix2/RevolutionUpdater-0.8a-hotfix2.exe" length="21975040" type="application/octet-stream" sparkle:edSignature="9YnzRPrqRS7MBlQnlMoRyBWEDmqhVoJ9XQ1KRTjQsLaYeEil/Xp07xG/c8uRi1TP/E8VfqXjh8Iiq3Sj07ptCg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix2/RevolutionUpdater-0.8a-hotfix2.exe" length="21975040" type="application/octet-stream" sparkle:edSignature="9YnzRPrqRS7MBlQnlMoRyBWEDmqhVoJ9XQ1KRTjQsLaYeEil/Xp07xG/c8uRi1TP/E8VfqXjh8Iiq3Sj07ptCg=="/>
       <description><![CDATA[<ul> <li>Fixed a crash related to pathfinding</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8a-hotfix3</title>
       <sparkle:version>0.8a-hotfix3</sparkle:version>
       <pubDate>Sun, 26 Oct 2025 22:11:51 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix3/RevolutionUpdater-0.8a-hotfix3.exe" length="21976576" type="application/octet-stream" sparkle:edSignature="mhyQgItysu8phXlzRdPlzB2jQtyOyzW6XKWcgIXUzlku95ijyzyG0f0dMdYg8AwSuTCB66QP4BHzZt5rhwYaAQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix3/RevolutionUpdater-0.8a-hotfix3.exe" length="21976576" type="application/octet-stream" sparkle:edSignature="mhyQgItysu8phXlzRdPlzB2jQtyOyzW6XKWcgIXUzlku95ijyzyG0f0dMdYg8AwSuTCB66QP4BHzZt5rhwYaAQ=="/>
       <description><![CDATA[<ul> <li>Added another mirror for dependencies</li> <li>Fixed several crashes</li> <li>Fixed conversion bugs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8a-hotfix4</title>
       <sparkle:version>0.8a-hotfix4</sparkle:version>
       <pubDate>Tue, 28 Oct 2025 22:42:17 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix4/RevolutionUpdater-0.8a-hotfix4.exe" length="21976064" type="application/octet-stream" sparkle:edSignature="LCzXVZPLZyk5iqquoErQhbdf79LrjjtSn2Lr9klm1bUeds1GYHu9YTbgBT+IF0y3kdRgmKeK5KTh6fcAz2vFDg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8a-hotfix4/RevolutionUpdater-0.8a-hotfix4.exe" length="21976064" type="application/octet-stream" sparkle:edSignature="LCzXVZPLZyk5iqquoErQhbdf79LrjjtSn2Lr9klm1bUeds1GYHu9YTbgBT+IF0y3kdRgmKeK5KTh6fcAz2vFDg=="/>
       <description><![CDATA[<ul> <li>Added a new source for OCR models</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8b</title>
       <sparkle:version>0.8b</sparkle:version>
       <pubDate>Mon, 17 Nov 2025 03:40:30 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b/RevolutionUpdater-0.8b.exe" length="23740928" type="application/octet-stream" sparkle:edSignature="yfCE1OM0XYrwBebFeuhhR34e4wbgXpLqTNWqZt+Mbs8h/zpw0G4tvqmadLf/v6P4mC3slzVxyWCplLOsQVsPAQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b/RevolutionUpdater-0.8b.exe" length="23740928" type="application/octet-stream" sparkle:edSignature="yfCE1OM0XYrwBebFeuhhR34e4wbgXpLqTNWqZt+Mbs8h/zpw0G4tvqmadLf/v6P4mC3slzVxyWCplLOsQVsPAQ=="/>
       <description><![CDATA[<ul> <li>Added hourly reports</li> <li>Overhauled the planter system</li> <li>Many other improvements and optimizations</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8b-hotfix1</title>
       <sparkle:version>0.8b-hotfix1</sparkle:version>
       <pubDate>Mon, 17 Nov 2025 08:19:03 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b-hotfix1/RevolutionUpdater-0.8b-hotfix1.exe" length="23741440" type="application/octet-stream" sparkle:edSignature="Rydft3Gvdch8WjZXwyldzyNn+zgFG93m2tN9ncnVsaxKQ+wHonyQeYpt49pNJcuvPOpt8b4In+KHisIkdks0Bg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8b-hotfix1/RevolutionUpdater-0.8b-hotfix1.exe" length="23741440" type="application/octet-stream" sparkle:edSignature="Rydft3Gvdch8WjZXwyldzyNn+zgFG93m2tN9ncnVsaxKQ+wHonyQeYpt49pNJcuvPOpt8b4In+KHisIkdks0Bg=="/>
       <description><![CDATA[<ul> <li>Fixed a bug with haste detection</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8c</title>
       <sparkle:version>0.8c</sparkle:version>
       <pubDate>Sat, 13 Dec 2025 20:32:15 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8c/RevolutionUpdater-0.8c.exe" length="23734272" type="application/octet-stream" sparkle:edSignature="pQECr4kNR1YtD3zb04n3wphDBTWRTPOVzjtzyBEuKU2N+z8r3vL9GpG+1q/kUVQT4Twh+v1te2rRFmcziS+QCQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8c/RevolutionUpdater-0.8c.exe" length="23734272" type="application/octet-stream" sparkle:edSignature="pQECr4kNR1YtD3zb04n3wphDBTWRTPOVzjtzyBEuKU2N+z8r3vL9GpG+1q/kUVQT4Twh+v1te2rRFmcziS+QCQ=="/>
       <description><![CDATA[<ul> <li>Added significant performance optimizations</li> <li>Adding a log viewer to the status tab</li> <li>Various bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8c-hotfix1</title>
       <sparkle:version>0.8c-hotfix1</sparkle:version>
       <pubDate>Tue, 16 Dec 2025 01:15:01 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8c-hotfix1/RevolutionUpdater-0.8c-hotfix1.exe" length="23734272" type="application/octet-stream" sparkle:edSignature="yFQChI6KHMs18RJiEqzvKUClqPKc4ywiNxfUcrhSZPbUxrj0yEs0RosE54Xu8NWp9Qd0sIPP8KCSTQEqH2zTDw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8c-hotfix1/RevolutionUpdater-0.8c-hotfix1.exe" length="23734272" type="application/octet-stream" sparkle:edSignature="yFQChI6KHMs18RJiEqzvKUClqPKc4ywiNxfUcrhSZPbUxrj0yEs0RosE54Xu8NWp9Qd0sIPP8KCSTQEqH2zTDw=="/>
       <description><![CDATA[<ul> <li>Fixed a bug with haste detection</li> <li>Fixed several crashes and other bugs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8d</title>
       <sparkle:version>0.8d</sparkle:version>
       <pubDate>Fri, 26 Dec 2025 00:05:42 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d/RevolutionUpdater-0.8d.exe" length="24061952" type="application/octet-stream" sparkle:edSignature="ErUF/Zq3GLCtqkJekvB/g7jAjnGFalDcVzYozsRAXCDTFkszo3P5XsWP+PYmr7hrpnpSrkzoXjtuDWOMsaz9Dw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d/RevolutionUpdater-0.8d.exe" length="24061952" type="application/octet-stream" sparkle:edSignature="ErUF/Zq3GLCtqkJekvB/g7jAjnGFalDcVzYozsRAXCDTFkszo3P5XsWP+PYmr7hrpnpSrkzoXjtuDWOMsaz9Dw=="/>
       <description><![CDATA[<ul> <li>Added beesmas dispensers</li> <li>Various bugfixes</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.8d-hotfix1</title>
       <sparkle:version>0.8d-hotfix1</sparkle:version>
       <pubDate>Mon, 29 Dec 2025 04:00:00 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d-hotfix1/RevolutionUpdater-0.8d-hotfix1.exe" length="24067072" type="application/octet-stream" sparkle:edSignature="9SBtKt91YmT19i0/A6HnjwyHUGeivNq74Ma03OEFLD5uFGZpIIMcIHJXx+n29uS9MkNSiYGFy59ErUYZaT3cDQ==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.8d-hotfix1/RevolutionUpdater-0.8d-hotfix1.exe" length="24067072" type="application/octet-stream" sparkle:edSignature="9SBtKt91YmT19i0/A6HnjwyHUGeivNq74Ma03OEFLD5uFGZpIIMcIHJXx+n29uS9MkNSiYGFy59ErUYZaT3cDQ=="/>
       <description><![CDATA[<ul> <li>Fixed Beesmas dispensers</li> <li>Fixed several quest-related bugs</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.9a</title>
       <sparkle:version>0.9a</sparkle:version>
       <pubDate>Sun, 11 Jan 2026 04:50:43 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9a/RevolutionUpdater-0.9a.exe" length="24160768" type="application/octet-stream" sparkle:edSignature="616cDQVcavaQMW97OKbVV/vKWY890MEJxTAS4TzYCJwPOrmZA2k2nBBN84qB6V7A9hdnGq0v1q4hXaSSiRqcBw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9a/RevolutionUpdater-0.9a.exe" length="24160768" type="application/octet-stream" sparkle:edSignature="616cDQVcavaQMW97OKbVV/vKWY890MEJxTAS4TzYCJwPOrmZA2k2nBBN84qB6V7A9hdnGq0v1q4hXaSSiRqcBw=="/>
       <description><![CDATA[<ul> <li>Added repeatable quests</li> <li>Added presets</li> <li>Added Sticker Printer and Honeystorm</li> <li>Many other bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.9b</title>
       <sparkle:version>0.9b</sparkle:version>
       <pubDate>Wed, 28 Jan 2026 23:41:22 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b/RevolutionUpdater-0.9b.exe" length="24583168" type="application/octet-stream" sparkle:edSignature="mKWjAt8fD2uBaoUc0HoEzE3BOCMy1+04SVnqpaK9GrOgdOsARN4BzBfE1cQMS+D0vstWKTouilBmnVnk1xPWCg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b/RevolutionUpdater-0.9b.exe" length="24583168" type="application/octet-stream" sparkle:edSignature="mKWjAt8fD2uBaoUc0HoEzE3BOCMy1+04SVnqpaK9GrOgdOsARN4BzBfE1cQMS+D0vstWKTouilBmnVnk1xPWCg=="/>
       <description><![CDATA[<ul> <li>Added support for petal quests</li> <li>Added global relays</li> <li>Added more bot commands</li> <li>Tons of bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.9b-hotfix1</title>
       <sparkle:version>0.9b-hotfix1</sparkle:version>
       <pubDate>Fri, 30 Jan 2026 05:24:55 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix1/RevolutionUpdater-0.9b-hotfix1.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="Utf35zxTrylgUqa2Xo8LDLdlDWb9WwllmuN610JT5qxETM3LfaA/nuhY4EoRXTrd1/rDGLaKWQmOpagGV0qkCA==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix1/RevolutionUpdater-0.9b-hotfix1.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="Utf35zxTrylgUqa2Xo8LDLdlDWb9WwllmuN610JT5qxETM3LfaA/nuhY4EoRXTrd1/rDGLaKWQmOpagGV0qkCA=="/>
       <description><![CDATA[<ul> <li>Fixed red cannon detection</li> <li>Improved bloom drift</li> <li>Other bugfixes and improvements</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.9b-hotfix2</title>
       <sparkle:version>0.9b-hotfix2</sparkle:version>
       <pubDate>Fri, 30 Jan 2026 07:44:16 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix2/RevolutionUpdater-0.9b-hotfix2.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="o9VsvVMIqTFbbH4OR0l3Cod0D3dQ65xvV0wiMLdfK47y2HjUfkeV/cN9x2VoMX6kw2McmSurL6BPyCtMPT4+Cg==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix2/RevolutionUpdater-0.9b-hotfix2.exe" length="25169920" type="application/octet-stream" sparkle:edSignature="o9VsvVMIqTFbbH4OR0l3Cod0D3dQ65xvV0wiMLdfK47y2HjUfkeV/cN9x2VoMX6kw2McmSurL6BPyCtMPT4+Cg=="/>
       <description><![CDATA[<ul> <li>Fixed quest fruit collection</li> <li>Fixed sticker stack collection</li> </ul>]]></description>
     </item>
     <item>
       <title>Version 0.9b-hotfix3</title>
       <sparkle:version>0.9b-hotfix3</sparkle:version>
       <pubDate>Fri, 06 Feb 2026 05:12:31 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix3/RevolutionUpdater-0.9b-hotfix3.exe" length="25142784" type="application/octet-stream" sparkle:edSignature="WOD/NuEqd7DT3ouEgnHjxa594ZdNUJv8BCUvCIpe1R5zH9p6czecVR8fHEMrXRjN2JTbWpK5WZo7v3DWziqjDw==" />
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix3/RevolutionUpdater-0.9b-hotfix3.exe" length="25142784" type="application/octet-stream" sparkle:edSignature="WOD/NuEqd7DT3ouEgnHjxa594ZdNUJv8BCUvCIpe1R5zH9p6czecVR8fHEMrXRjN2JTbWpK5WZo7v3DWziqjDw=="/>
       <description><![CDATA[<ul> <li>Various bugfixes and improvements</li> </ul>]]></description>
+    </item>
+    <item>
+      <title>Version 0.9b-hotfix4</title>
+      <sparkle:version>0.9b-hotfix4</sparkle:version>
+      <pubDate>Fri, 20 Feb 2026 23:26:50 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix4/RevolutionUpdater-0.9b-hotfix4.exe" length="25258496" type="application/octet-stream" sparkle:edSignature="SXpqMlRKbB3pmqupQ2tqGooaXAnDB2/kkzs96kVIFk64FNIfLMybxV1jGjsk1gPdUbYsRvGZ2VzoctouMFyhCw=="/>
+      <description><![CDATA[<ul>
+<li>Reworked the planter scheduling system</li>
+<li>Added an option to buy ant passes</li>
+<li>Added new routing options</li>
+<li>Fixed numerous quest detection bugs</li>
+<li>Tons of bugfixes and optimizations</li>
+</ul>
+]]></description>
     </item>
   </channel>
 </rss>
