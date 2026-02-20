@@ -1,125 +1,25 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  
-  
-  
-  
-  
-  
-  
-  
   <channel>
-    
-    
-    
-    
-    
-    
-    
-    
     <title>Revolution Macro Updates</title>
-    
-    
-    
-    
-    
-    
-    
-    
     <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
-    
-    
-    
-    
-    
-    
-    
-    
     <description>AppCast for Revolution Macro (macOS)</description>
-    
-    
-    
-    
-    
-    
-    
-    
     <language>en</language>
-    
-    
-    
-    
-  
-    
-    
-    
     <item>
-      
-      
-      
-      
-      
-      
       <title>Version 0.9b-hotfix3</title>
-      
-      
-      
-      
-      
-      
       <sparkle:version>0.9b-hotfix3</sparkle:version>
-      
-      
-      
-      
-      
-      
       <pubDate>Thu, 19 Feb 2026 21:54:42 GMT</pubDate>
-      
-      
-      
-      
-      
-      
       <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix3/RevolutionMacro-0.9b-hotfix3.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
-      
-      
-      
-      
-      
-      
       <description><![CDATA[<ul>
 <li>Various bugfixes and improvements</li>
 </ul>
 ]]></description>
-      
-      
-      
-    
-    
-    
     </item>
-    
-    
-    
-  
-  
-    
     <item>
-      
-      
       <title>Version 0.9b-hotfix4</title>
-      
-      
       <sparkle:version>90204</sparkle:version>
-      
-      
-      <pubDate>Fri, 20 Feb 2026 01:33:30 GMT</pubDate>
-      
-      
-      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47580322" type="application/octet-stream" sparkle:edSignature="/00pAAB/CcxT5ojzXrzLTLBJHwakN05t8sUcc0MNaLfkSJHEqK/1uXHNsAYnQvpuUW0H4c1ROoJ7flLXXL6PAA=="/>
-      
-      
+      <pubDate>Fri, 20 Feb 2026 23:03:53 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47579998" type="application/octet-stream" sparkle:edSignature="3l7Dz2n1yUwYe2V/L9d7RHviPn23ipMJtcJi1hgDt1npITEO6bcSgpyEUIeyRlZeXWD8K6YTOtHAdWe5CcrRBQ=="/>
       <description><![CDATA[<ul>
 <li>Reworked the planter scheduling system</li>
 <li>Added an option to buy ant passes</li>
@@ -128,19 +28,7 @@
 <li>Tons of bugfixes and optimizations</li>
 </ul>
 ]]></description>
-      
-    
       <sparkle:shortVersionString>0.9b-hotfix4</sparkle:shortVersionString>
     </item>
-    
-  
   </channel>
-  
-  
-  
-  
-
-
-
-
 </rss>
