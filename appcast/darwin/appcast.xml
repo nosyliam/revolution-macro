@@ -18,8 +18,8 @@
     <item>
       <title>Version 0.9b-hotfix4</title>
       <sparkle:version>90204</sparkle:version>
-      <pubDate>Sat, 21 Feb 2026 00:55:40 GMT</pubDate>
-      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47522027" type="application/octet-stream" sparkle:edSignature="gDSpUD1ofVogVVTMwT3BzHGFNquFpgCWygel9posIh7eOIv22RRmAwjA8e1S8fCmlho6tJCMf5Ze7ps6dQbwCA=="/>
+      <pubDate>Sat, 21 Feb 2026 01:14:12 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47522790" type="application/octet-stream" sparkle:edSignature="HFVmI0m6U+rSg/M1+HC3gHiPuvagFWNXOlsBcbO+JFXHj4Pvw6Zi0+GwNIbbuEiWjUaL4StMd4DFQKIEquL9CQ=="/>
       <description><![CDATA[<ul>
 <li>Reworked the planter scheduling system</li>
 <li>Added an option to buy ant passes</li>
