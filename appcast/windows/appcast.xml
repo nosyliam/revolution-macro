@@ -281,7 +281,7 @@
     <item>
       <title>Version 0.9b-hotfix4</title>
       <sparkle:version>0.9b-hotfix4</sparkle:version>
-      <pubDate>Fri, 20 Feb 2026 23:26:50 GMT</pubDate>
+      <pubDate>Sat, 21 Feb 2026 00:52:32 GMT</pubDate>
       <enclosure url="https://raw.githubusercontent.com/nosyliam/revolution-macro-updates/main/0.9b-hotfix4/RevolutionUpdater-0.9b-hotfix4.exe" length="25258496" type="application/octet-stream" sparkle:edSignature="SXpqMlRKbB3pmqupQ2tqGooaXAnDB2/kkzs96kVIFk64FNIfLMybxV1jGjsk1gPdUbYsRvGZ2VzoctouMFyhCw=="/>
       <description><![CDATA[<ul>
 <li>Reworked the planter scheduling system</li>
