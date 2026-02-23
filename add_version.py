@@ -12,7 +12,7 @@ def sha256_uppercase(path: Path) -> str:
 
 
 def add_version_for_file(file_path: Path) -> None:
-    version_path = file_path.with_suffix(file_path.suffix + ".version")
+    version_path = file_path.with_suffix(file_path.suffix.split(".")[0] + ".version")
     digest = sha256_uppercase(file_path)
     version_path.write_text(digest + "\n", encoding="utf-8")
     print(f"  {version_path.name} <- {digest[:16]}...")
