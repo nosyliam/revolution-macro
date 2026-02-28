@@ -21,29 +21,16 @@
 
 ## Overview
 
-Revolution Macro is a modern, high-performance macro for Bee Swarm Simulator, designed to provide an innovative automation experience on both Windows and macOS. By leveraging advanced AI and computer vision, Revolution moves beyond simple coordinate-based clicking to offer intelligent, context-aware gameplay.
+Revolution Macro is a new Bee Swarm Simulator macro for **Windows** and **macOS** that has been designed from the ground-up to offer an innovative macro experience. Sporting a modern interface and advanced features that integrate AI, Revolution will be the last macro that you'll ever use.
 
-## Key Features
+## Features
 
-### AI-Driven Automation
-* **AI Stinger Hop:** Advanced AI detection for efficient public server hopping and stinger collection.
-* **Object Detection:** Real-time recognition of tokens, bees, and game elements using optimized AI models.
-* **Quest Awareness:** Intelligent detection and tracking of active quests to optimize your progression.
+Some of the features included right now are:
 
-### Smart Navigation
-* **AI Pathfinding:** Sophisticated algorithms navigate from task to task without needing to reset, optimizing every route.
-* **Full Map Support:** Complete integration with portals, cannons, and shortcuts for lightning-fast travel.
-
-### Advanced Gathering & Management
-* **Dynamic Gathering:** Select multiple fields with a modern interface; the macro handles the rest.
-* **Planter Scheduling:** Fully reworked scheduling system to maximize your planter yields.
-* **Dispenser Automation:** Collect from all dispensers efficiently without unnecessary resets.
-* **Resource Management:** Automated purchasing of Ant Passes and other essentials.
-
-### Modern Experience
-* **Sleek UI:** A clean, intuitive interface designed for modern operating systems.
-* **Cross-Platform:** Native support for both Windows and macOS users.
-* **Auto-Updates:** Integrated update system ensures you're always running the latest optimizations.
+* **AI Stinger Hop**: Public server hop with advanced AI detection and searcher support.
+* **AI Pathfinding**: Advanced algorithms allow your character to go from task-to-task without needing to reset, finding the most optimized route each time. Advanced shortcuts like portals and cannons fully supported!
+* **Gathering**: Choose any amount of fields to gather in of your choosing with a modern and intuitive interface.
+* **Dispensers**: Collect loot from every dispenser in the game without needing to reset after.
 
 ## Screenshots
 
@@ -54,9 +41,8 @@ Revolution Macro is a modern, high-performance macro for Bee Swarm Simulator, de
 
 ## Getting Started
 
-1. **Download:** Head over to the [Releases](https://github.com/nosyliam/revolution-macro/releases) page to grab the latest version for your OS.
-2. **Join the Community:** For setup guides, troubleshooting, and priority support, join our [Discord Server](https://discord.gg/revolutionmacro).
-3. **Permissions:** On macOS, ensure the app has the necessary Accessibility permissions to interact with the game.
+1. **Download**: Join the [**Discord Server**](https://discord.gg/revolutionmacro) to become a Beta Tester and access guides and priority support! Check out the [Releases](https://github.com/nosyliam/revolution-macro/releases) to download the latest version of Revolution.
+2. **Permissions**: On macOS, ensure the app has the necessary Accessibility permissions to interact with the game.
 
 ## Built With
 
@@ -66,9 +52,9 @@ Revolution Macro is a modern, high-performance macro for Bee Swarm Simulator, de
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
-## Contributing
+## Creator
 
-Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue or submit a pull request.
+Revolution Macro is a solo project created by Liam. Your support is what drives me to fulfill the vision for Revolution every single day! Have a question? Feel free to contact me on Discord, my tag is `liammuwu`
 
 ---
 
