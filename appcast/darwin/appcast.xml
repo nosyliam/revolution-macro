@@ -30,5 +30,22 @@
 ]]></description>
       <sparkle:shortVersionString>0.9b-hotfix4</sparkle:shortVersionString>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix5</title>
+      <sparkle:version>90205</sparkle:version>
+      <sparkle:shortVersionString>0.9b-hotfix5</sparkle:shortVersionString>
+      <pubDate>Tue, 10 Mar 2026 01:42:34 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9b-hotfix5/RevolutionMacro.dmg" length="46123155" type="application/octet-stream" sparkle:edSignature="fmqVVyZV/3CxKX78obT++03OwqBibfqNCCcVroahlr9mSvwppo8+azrYeG83KlEz77mKRdiCt2i1NZxt1McfBA=="/>
+      <description><![CDATA[<ul>
+<li>Added Auto Field Boost</li>
+<li>Added a new revamped Auto Jelly</li>
+<li>Improved AI compatability and performance</li>
+<li>Added CUDA support for AI models</li>
+<li>Added an overlay for AI token detection</li>
+<li>Fixed issues with hourly reports</li>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
