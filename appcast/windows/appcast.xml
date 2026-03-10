@@ -292,5 +292,21 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9b-hotfix5</title>
+      <sparkle:version>0.9b-hotfix5</sparkle:version>
+      <pubDate>Tue, 10 Mar 2026 01:33:35 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9b-hotfix5/RevolutionUpdater-0.9b-hotfix5.exe" length="24425984" type="application/octet-stream" sparkle:edSignature="0nUFm0uLZGIbRNFSAWM7wsoz7XsKk+d64vmpsv9uFr4MbGzNzNotminYnpkHUtETJxDoP9ge8e1EtdH0QN/VCQ=="/>
+      <description><![CDATA[<ul>
+<li>Added Auto Field Boost</li>
+<li>Added a new revamped Auto Jelly</li>
+<li>Improved AI compatability and performance</li>
+<li>Added CUDA support for AI models</li>
+<li>Added an overlay for AI token detection</li>
+<li>Fixed issues with hourly reports</li>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
