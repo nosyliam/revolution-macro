@@ -295,8 +295,8 @@
     <item>
       <title>Version 0.9b-hotfix5</title>
       <sparkle:version>0.9b-hotfix5</sparkle:version>
-      <pubDate>Tue, 10 Mar 2026 01:33:35 GMT</pubDate>
-      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9b-hotfix5/RevolutionUpdater-0.9b-hotfix5.exe" length="24425984" type="application/octet-stream" sparkle:edSignature="0nUFm0uLZGIbRNFSAWM7wsoz7XsKk+d64vmpsv9uFr4MbGzNzNotminYnpkHUtETJxDoP9ge8e1EtdH0QN/VCQ=="/>
+      <pubDate>Tue, 10 Mar 2026 02:40:41 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9b-hotfix5/RevolutionUpdater-0.9b-hotfix5.exe" length="24435200" type="application/octet-stream" sparkle:edSignature="VXO+6iITwGYu5VF4/6DfeGvSUYbWBVrtqyPR3JjCCMmo9eCUUqVM0jLbC5JwxHlLYeUonI3ajs+KdQEDn+Z2AQ=="/>
       <description><![CDATA[<ul>
 <li>Added Auto Field Boost</li>
 <li>Added a new revamped Auto Jelly</li>
