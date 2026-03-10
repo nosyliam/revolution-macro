@@ -295,7 +295,7 @@
     <item>
       <title>Version 0.9b-hotfix5</title>
       <sparkle:version>0.9b-hotfix5</sparkle:version>
-      <pubDate>Tue, 10 Mar 2026 02:40:41 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 02:41:20 GMT</pubDate>
       <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9b-hotfix5/RevolutionUpdater-0.9b-hotfix5.exe" length="24435200" type="application/octet-stream" sparkle:edSignature="VXO+6iITwGYu5VF4/6DfeGvSUYbWBVrtqyPR3JjCCMmo9eCUUqVM0jLbC5JwxHlLYeUonI3ajs+KdQEDn+Z2AQ=="/>
       <description><![CDATA[<ul>
 <li>Added Auto Field Boost</li>
