@@ -47,5 +47,22 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9c</title>
+      <sparkle:version>90300</sparkle:version>
+      <sparkle:shortVersionString>0.9c</sparkle:shortVersionString>
+      <pubDate>Fri, 03 Apr 2026 23:43:50 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c/RevolutionMacro.dmg" length="48467620" type="application/octet-stream" sparkle:edSignature="S80Rf3MqQv5UXXi6rP+LT8nf9wLokDzNgjxQoi9g0JvKTIiPsMzVt5JLMOTCytIZ2ZCqhkZ4C64Zc3Zk6yCEAA=="/>
+      <description><![CDATA[<ul>
+<li>Added Memory Match</li>
+<li>Added Wind Shrine</li>
+<li>Added AI Loot Collection</li>
+<li>Added Spotlight Search</li>
+<li>Improved AI Gather</li>
+<li>Improved Mondo Hop</li>
+<li>Various bugfixes</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
