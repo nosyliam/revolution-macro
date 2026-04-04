@@ -311,8 +311,8 @@
     <item>
       <title>Version 0.9c</title>
       <sparkle:version>0.9c</sparkle:version>
-      <pubDate>Fri, 03 Apr 2026 23:33:35 GMT</pubDate>
-      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c/RevolutionUpdater-0.9c.exe" length="25656832" type="application/octet-stream" sparkle:edSignature="P1LoscVK9VWz7s4hqvqfKeoF3kKBCnJvIrL4uStLDpqcziTxLt7QEGL/0lABVcj/tE7HJzBfvHBk3id6FqpRBw=="/>
+      <pubDate>Sat, 04 Apr 2026 00:20:55 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c/RevolutionUpdater-0.9c.exe" length="25656832" type="application/octet-stream" sparkle:edSignature="/NABzbz96owR3vIJrFB8vp72FYpjQKcFqfZxcOHoO8gIE5/1rARazotYlbDHsSbXkNKPWk+80C5u+7zuair8Cw=="/>
       <description><![CDATA[<ul><li>Added Memory Match</li><li>Added Wind Shrine</li><li>Added AI Loot Collection</li><li>Added Spotlight Search</li><li>Improved AI Gather</li><li>Improved Mondo Hop</li><li>Various bugfixes</li></ul>]]></description>
     </item>
   </channel>
