@@ -315,5 +315,12 @@
       <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c/RevolutionUpdater-0.9c.exe" length="25656832" type="application/octet-stream" sparkle:edSignature="/NABzbz96owR3vIJrFB8vp72FYpjQKcFqfZxcOHoO8gIE5/1rARazotYlbDHsSbXkNKPWk+80C5u+7zuair8Cw=="/>
       <description><![CDATA[<ul><li>Added Memory Match</li><li>Added Wind Shrine</li><li>Added AI Loot Collection</li><li>Added Spotlight Search</li><li>Improved AI Gather</li><li>Improved Mondo Hop</li><li>Various bugfixes</li></ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9c-hotfix1</title>
+      <sparkle:version>0.9c-hotfix1</sparkle:version>
+      <pubDate>Fri, 24 Apr 2026 17:37:20 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix1/RevolutionUpdater-0.9c-hotfix1.exe" length="26250240" type="application/octet-stream" sparkle:edSignature="XOx0bMBtnk2wFoWUIqMAB0IGMYGdJUHvktKLbESdp6jeMixu2+hdfEfyKF2FIP1V9bxNbBHROWjLDlL08eX3Cg=="/>
+      <description><![CDATA[<ul><li>Added Item Reports</li><li>Improved Vic Hop</li><li>Optimized macro performance</li><li>Various bugfixes</li></ul>]]></description>
+    </item>
   </channel>
 </rss>
