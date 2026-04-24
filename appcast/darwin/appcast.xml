@@ -64,5 +64,19 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9c-hotfix1</title>
+      <sparkle:version>90301</sparkle:version>
+      <sparkle:shortVersionString>0.9c-hotfix1</sparkle:shortVersionString>
+      <pubDate>Fri, 24 Apr 2026 17:56:28 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix1/RevolutionMacro.dmg" length="50139411" type="application/octet-stream" sparkle:edSignature="Wkd1M98JbVt6SzJKzrS86ko2CxmLqQQEkeQEtvtF6EMESCmljN6DmzC6NDquM7qsKuKtPH5cJfoY19ScaqgEDQ=="/>
+      <description><![CDATA[<ul>
+<li>Added Item Reports</li>
+<li>Improved Vic Hop</li>
+<li>Optimized macro performance</li>
+<li>Various bugfixes</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
