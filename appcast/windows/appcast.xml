@@ -329,5 +329,12 @@
       <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix2/RevolutionUpdater-0.9c-hotfix2.exe" length="26357760" type="application/octet-stream" sparkle:edSignature="ZyS18WBs1nItCf7qxuq1Qr21teww6Ysa6aRqpUlkrsUbvJrCGK9oHLmp6/zqBuTqRsazxKwraIDzFPj6rh24AQ=="/>
       <description><![CDATA[<ul><li>Fixed a crash on MacOS</li><li>Fixed a bug with Vicious battle detection</li><li>Fixed a bug with quest detection</li></ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9c-hotfix3</title>
+      <sparkle:version>0.9c-hotfix3</sparkle:version>
+      <pubDate>Sun, 26 Apr 2026 20:36:13 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix3/RevolutionUpdater-0.9c-hotfix3.exe" length="26363904" type="application/octet-stream" sparkle:edSignature="LMpfYxSdI7rLTSAIm4fkECb0aUg40BVbX6KOrw+EnsxRNZkZVa+aNEptevQ7ziHdqaNT5dpDFfBN055W6MCyCA=="/>
+      <description><![CDATA[<ul><li>Fixed a start-up crash</li></ul>]]></description>
+    </item>
   </channel>
 </rss>
