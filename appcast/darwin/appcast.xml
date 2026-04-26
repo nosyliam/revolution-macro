@@ -91,5 +91,16 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9c-hotfix3</title>
+      <sparkle:version>90303</sparkle:version>
+      <sparkle:shortVersionString>0.9c-hotfix3</sparkle:shortVersionString>
+      <pubDate>Sun, 26 Apr 2026 21:00:03 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix3/RevolutionMacro.dmg" length="50371923" type="application/octet-stream" sparkle:edSignature="kstb5n8fVRY9dTab7/S5B9mSGT40QQF4M7MrIbSntWmVmBnltXaQbfJRkI20kY59wzS8QO0I+QgGmDDabn18DQ=="/>
+      <description><![CDATA[<ul>
+<li>Fixed a start-up crash</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
