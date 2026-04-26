@@ -322,5 +322,12 @@
       <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix1/RevolutionUpdater-0.9c-hotfix1.exe" length="26250240" type="application/octet-stream" sparkle:edSignature="XOx0bMBtnk2wFoWUIqMAB0IGMYGdJUHvktKLbESdp6jeMixu2+hdfEfyKF2FIP1V9bxNbBHROWjLDlL08eX3Cg=="/>
       <description><![CDATA[<ul><li>Added Item Reports</li><li>Improved Vic Hop</li><li>Optimized macro performance</li><li>Various bugfixes</li></ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9c-hotfix2</title>
+      <sparkle:version>0.9c-hotfix2</sparkle:version>
+      <pubDate>Sun, 26 Apr 2026 18:31:35 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix2/RevolutionUpdater-0.9c-hotfix2.exe" length="26357760" type="application/octet-stream" sparkle:edSignature="ZyS18WBs1nItCf7qxuq1Qr21teww6Ysa6aRqpUlkrsUbvJrCGK9oHLmp6/zqBuTqRsazxKwraIDzFPj6rh24AQ=="/>
+      <description><![CDATA[<ul><li>Fixed a crash on MacOS</li><li>Fixed a bug with Vicious battle detection</li><li>Fixed a bug with quest detection</li></ul>]]></description>
+    </item>
   </channel>
 </rss>
