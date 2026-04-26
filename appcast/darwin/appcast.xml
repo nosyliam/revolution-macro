@@ -82,7 +82,7 @@
       <title>Version 0.9c-hotfix2</title>
       <sparkle:version>90302</sparkle:version>
       <sparkle:shortVersionString>0.9c-hotfix2</sparkle:shortVersionString>
-      <pubDate>Sun, 26 Apr 2026 18:35:08 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 18:36:33 GMT</pubDate>
       <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix2/RevolutionMacro.dmg" length="50366279" type="application/octet-stream" sparkle:edSignature="Q+lW4L7fDm4zjwcOZFVVA+08IEHfmUSF6vY2SwtKLMM9dScm7SaBEkxi3H93YYbH6GWn4nPc4EqyDaLgJj6LCQ=="/>
       <description><![CDATA[<ul>
 <li>Fixed a crash on MacOS</li>
