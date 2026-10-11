@@ -102,5 +102,25 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9d</title>
+      <sparkle:version>90400</sparkle:version>
+      <sparkle:shortVersionString>0.9d</sparkle:shortVersionString>
+      <pubDate>Sun, 11 Oct 2026 20:52:04 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9d/RevolutionMacro.dmg" length="63289365" type="application/octet-stream" sparkle:edSignature="l7Xnk4X5pJdcb+IIanoctVwJhfYJcGNnQ8/AvFqxUmtfm3X1M6T+GVHM8jMYgbfKp1CmmdWaQ0lh1PsM+EUMAw=="/>
+      <description><![CDATA[<ul>
+<li>Red AI basic is now free for everyone</li>
+<li>Added Blue AI with duped token collection</li>
+<li>Reworked AI Gather for smarter, faster token collection</li>
+<li>Added cloud relays with simple join codes</li>
+<li>Added Remote Control for Revolution Pro</li>
+<li>Reduced CPU usage and improved capture performance</li>
+<li>Reworked bot settings</li>
+<li>Added a new Statistics page</li>
+<li>Added a new Priority page</li>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
