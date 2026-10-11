@@ -336,5 +336,24 @@
       <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9c-hotfix3/RevolutionUpdater-0.9c-hotfix3.exe" length="26363904" type="application/octet-stream" sparkle:edSignature="LMpfYxSdI7rLTSAIm4fkECb0aUg40BVbX6KOrw+EnsxRNZkZVa+aNEptevQ7ziHdqaNT5dpDFfBN055W6MCyCA=="/>
       <description><![CDATA[<ul><li>Fixed a start-up crash</li></ul>]]></description>
     </item>
+    <item>
+      <title>Version 0.9d</title>
+      <sparkle:version>0.9d</sparkle:version>
+      <pubDate>Sun, 11 Oct 2026 20:01:15 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9d/RevolutionUpdater-0.9d.exe" length="39185920" type="application/octet-stream" sparkle:edSignature="JMJpoS88MT34/Ej6XW/MDGgFskBBcUTDVQkXbXMYjn2vswEd4l1rI4buu+zo8h9uRzlykGh3FWKJgwkw+n1+Dw=="/>
+      <description><![CDATA[<ul>
+<li>Red AI basic is now free for everyone</li>
+<li>Added Blue AI with duped token collection</li>
+<li>Reworked AI Gather for smarter, faster token collection</li>
+<li>Added cloud relays with simple join codes</li>
+<li>Added Remote Control for Revolution Pro</li>
+<li>Reduced CPU usage and improved capture performance</li>
+<li>Reworked bot settings</li>
+<li>Added a new Statistics page</li>
+<li>Added a new Priority page</li>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
