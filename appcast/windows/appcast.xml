@@ -355,5 +355,21 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9d-hotfix1</title>
+      <sparkle:version>0.9d-hotfix1</sparkle:version>
+      <pubDate>Sat, 17 Oct 2026 00:25:56 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9d-hotfix1/RevolutionUpdater-0.9d-hotfix1.exe" length="39180288" type="application/octet-stream" sparkle:edSignature="oSpxpCvtFHOAWX5GjPlHBfocW9Ldw1AuEkf3sMY12YuK0ndA9mYWt92i0dnSHhy5YPeaymmgmC+Plq+pdc3RBw=="/>
+      <description><![CDATA[<ul>
+<li>Fixed a bug that prevented settings from loading</li>
+<li>Fixed an issue that caused pages in the macro to go blank</li>
+<li>Fixed downloads failing with some antivirus or VPN setups</li>
+<li>Fixed a bug that could freeze the macro while opening Roblox</li>
+<li>Fixed a bug that could make Vic Hop join the wrong servers</li>
+<li>Fixed the Kettle Pine default pattern</li>
+<li>Various crash fixes and stability improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
