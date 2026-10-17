@@ -122,5 +122,25 @@
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9d-hotfix1</title>
+      <sparkle:version>90401</sparkle:version>
+      <sparkle:shortVersionString>0.9d-hotfix1</sparkle:shortVersionString>
+      <pubDate>Sat, 17 Oct 2026 01:18:08 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9d-hotfix1/RevolutionMacro.dmg" length="63508049" type="application/octet-stream" sparkle:edSignature="hUcaBZ+AQQM6UgOFQM0KxYqrFbCbZqrOGKabqbzKVykmvJ+EG8q8GTNvDOf+KQXsKR4Rauo9NQzBnMfq9+ovAg=="/>
+      <description><![CDATA[<ul>
+<li>Fixed a bug that prevented settings from loading</li>
+<li>Fixed an issue that caused pages in the macro to go blank</li>
+<li>Fixed downloads failing with some antivirus or VPN setups</li>
+<li>Fixed a bug that could freeze the macro while opening Roblox</li>
+<li>Fixed a bug that could make Vic Hop join the wrong servers</li>
+<li>Fixed the Kettle Pine default pattern</li>
+<li>Fixed Revolution Macro failing to open on macOS 27 when run with
+Rosetta</li>
+<li>Revolution Macro now requires macOS 12 Monterey or later on Mac</li>
+<li>Various crash fixes and stability improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
