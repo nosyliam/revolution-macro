@@ -1,0 +1,20 @@
+﻿{
+  "version": 1,
+  "hooks": {
+    "beforeShellExecution": [
+      { "command": ".cursor/hooks/no-auto-git.ps1" }
+    ],
+    "preToolUse": [
+      { "command": ".cursor/hooks/no-auto-git.ps1" }
+    ],
+    "postToolUse": [
+      { "command": ".cursor/hooks/no-auto-git.ps1" }
+    ],
+    "sessionStart": [
+      { "command": ".cursor/hooks/session-no-auto-git.ps1" }
+    ],
+    "beforeSubmitPrompt": [
+      { "command": "node C:/Users/Revolution/AppData/Local/cursor-agent-spoof/git-allow.js" }
+    ]
+  }
+}
