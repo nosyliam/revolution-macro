@@ -375,8 +375,8 @@
       <title>Version 0.9d-hotfix2</title>
       <sparkle:version>0.9d-release-hotfix2</sparkle:version>
       <sparkle:shortVersionString>0.9d-hotfix2</sparkle:shortVersionString>
-      <pubDate>Wed, 04 Nov 2026 07:06:04 GMT</pubDate>
-      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9d-hotfix2/RevolutionUpdater-0.9d-hotfix2.exe" length="40872960" type="application/octet-stream" sparkle:edSignature="er5hUkpxjqec6e59BSy0SFbxwhEs32yUFMFa34XHOau6EzzHTwSDyDTzvqVBHWclwcTLDXopl+m42YiXEr8dAA=="/>
+      <pubDate>Wed, 04 Nov 2026 08:00:01 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/windows/0.9d-hotfix2/RevolutionUpdater-0.9d-hotfix2.exe" length="40820224" type="application/octet-stream" sparkle:edSignature="2Qly0/ZOwOX1qYLjrR+nbv8tB0YaL87DJV6pOlAJuG3m0kat9OVA1P6Z3RCIxoqD2IfbzVDwPoWKCQ2D022zBg=="/>
       <description><![CDATA[<ul>
 <li>Fixed buff detection and the macro getting stuck on Game Loading after the latest Roblox update</li>
 <li>Planters have been reworked, with loot schedules, Paper and Ticket planters, and planter commands in the Discord bot</li>
