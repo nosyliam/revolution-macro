@@ -142,5 +142,35 @@ Rosetta</li>
 </ul>
 ]]></description>
     </item>
+    <item>
+      <title>Version 0.9d-hotfix2</title>
+      <sparkle:version>90402</sparkle:version>
+      <sparkle:shortVersionString>0.9d-hotfix2</sparkle:shortVersionString>
+      <pubDate>Wed, 04 Nov 2026 07:07:54 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9d-hotfix2/RevolutionMacro.dmg" length="65800799" type="application/octet-stream" sparkle:edSignature="whDTcapWcSl7IbbPqFPHQEpbZDmnPGaH0biguO3Ej4Joa1noL0+VyxsvLQ8mD7t+9lkyMGhDdfe5y/26dLloDg=="/>
+      <description><![CDATA[<h1 id="d-hotfix2">0.9d-hotfix2</h1>
+<ul>
+<li>Fixed the macro getting stuck on Game Loading and not detecting
+buffs after the latest Roblox update. Buff detection has been rebuilt
+from scratch, and should also be faster and more accurate</li>
+<li>Planters have been reworked: added loot schedules and Paper and
+Ticket planters, and a new planter algorithm</li>
+<li>Added planter commands to the Discord bot: a planter status image,
+hold, harvest, smoke and screenshot</li>
+<li>You can now pick the update channel (Stable, Prerelease or Pro Early
+Access) in Settings -&gt; Updates</li>
+<li>Fixed the macro closing and reopening Roblox over and over, or
+taking up to a minute to open it</li>
+<li>Vic Hop and Server Hop should join full servers much less often now,
+and no longer land in friends’ or recently left servers</li>
+<li>Fixed Mainline quests ignoring the quest givers you picked</li>
+<li>Fixed several issues on Mac, including the macro stopping when the
+display went to sleep and not being able to type in text fields</li>
+<li>Fixed several crashes, including one when starting remote control on
+some NVIDIA graphics cards</li>
+<li>Other bugfixes and stability improvements</li>
+</ul>
+]]></description>
+    </item>
   </channel>
 </rss>
